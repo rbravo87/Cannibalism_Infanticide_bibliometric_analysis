@@ -1,0 +1,2 @@
+# CannibalismInfanticide_bibliometrics
+Bibliometrics in Cannibalism/infanticide in Laboratory Animals
