@@ -1,2 +1,2 @@
-# CannibalismInfanticide_bibliometrics
-Bibliometrics in Cannibalism/infanticide in Laboratory Animals
+# Cannibalism & Infanticide - Bibliometrics analysis
+This repository contains data used for bibliometrics analysis 
