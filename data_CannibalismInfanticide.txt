@@ -1,0 +1,5735 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Centeno-Cuadros, A
+   Roman, J
+   Sanchez-Recuero, A
+   Lucena-Perez, M
+   Delibes, M
+   Godoy, JA
+AF Centeno-Cuadros, Alejandro
+   Roman, Jacinto
+   Sanchez-Recuero, Amaia
+   Lucena-Perez, Maria
+   Delibes, Miguel
+   Godoy, Jose A.
+TI Mating System, Breeding Success, and Pup Mortality of a Habitat
+   Specialist Rodent: A Field and Molecular-based Approach
+SO JOURNAL OF MAMMALIAN EVOLUTION
+RI Godoy, Jose Antonio/B-9288-2008
+OI Godoy, Jose Antonio/0000-0001-7502-9471
+TC 0
+Z9 0
+SN 1064-7554
+EI 1573-7055
+DI 10.1007/s10914-021-09542-z
+EA APR 2021
+UT WOS:000636971000001
+ER
+
+PT J
+AU Zipple, MN
+   Roberts, EK
+   Alberts, SC
+   Beehner, JC
+AF Zipple, Matthew N.
+   Roberts, Eila K.
+   Alberts, Susan C.
+   Beehner, Jacinta C.
+TI The Bruce effect should be defined by function, not mechanism: comments
+   on 'How to escape male infanticide: mechanisms for avoiding or
+   terminating pregnancy in mammals'
+SO MAMMAL REVIEW
+TC 0
+Z9 0
+SN 0305-1838
+EI 1365-2907
+DI 10.1111/mam.12250
+EA MAR 2021
+UT WOS:000631541500001
+ER
+
+PT J
+AU Nakahara, TS
+   Camargo, AP
+   Magalhaes, PHM
+   Souza, MAA
+   Ribeiro, PG
+   Martins-Netto, PH
+   Carvalho, VMA
+   Jose, J
+   Papes, F
+AF Nakahara, Thiago S.
+   Camargo, Antonio P.
+   Magalhaes, Pedro H. M.
+   Souza, Mateus A. A.
+   Ribeiro, Pedro G.
+   Martins-Netto, Paulo H.
+   Carvalho, Vinicius M. A.
+   Jose, Juliana
+   Papes, Fabio
+TI Peripheral oxytocin injection modulates vomeronasal sensory activity and
+   reduces pup-directed aggression in male mice
+SO SCIENTIFIC REPORTS
+OI Jose, Juliana/0000-0002-8259-6519; Nakahara, Thiago/0000-0001-7442-3338
+TC 1
+Z9 1
+SN 2045-2322
+PD NOV 17
+PY 2020
+VL 10
+IS 1
+AR 19943
+DI 10.1038/s41598-020-77061-7
+UT WOS:000604506600010
+PM 33203885
+ER
+
+PT J
+AU Feddersen, S
+   Nardiello, C
+   Selvakumar, B
+   Vadasz, I
+   Herold, S
+   Seeger, W
+   Morty, RE
+AF Feddersen, Sophie
+   Nardiello, Claudio
+   Selvakumar, Balachandar
+   Vadasz, Istvan
+   Herold, Susanne
+   Seeger, Werner
+   Morty, Rory E.
+TI Impact of litter size on survival, growth and lung alveolarization of
+   newborn mouse pups
+SO ANNALS OF ANATOMY-ANATOMISCHER ANZEIGER
+OI Morty, Rory/0000-0003-0833-9749; Vadasz, Istvan/0000-0003-1370-9783
+TC 0
+Z9 0
+SN 0940-9602
+EI 1618-0402
+PD NOV
+PY 2020
+VL 232
+AR 151579
+DI 10.1016/j.aanat.2020.151579
+UT WOS:000573299600016
+PM 32688019
+ER
+
+PT J
+AU Kuroda, KO
+   Shiraishi, Y
+   Shinozuka, K
+AF Kuroda, Kumi O.
+   Shiraishi, Yuko
+   Shinozuka, Kazutaka
+TI Evolutionary-adaptiveand nonadaptive causes of infant attack/desertion
+   in mammals: Toward a systematic classification of child maltreatment
+SO PSYCHIATRY AND CLINICAL NEUROSCIENCES
+OI Shinozuka, Kazutaka/0000-0002-6435-4460; Kuroda, Kumi
+   O./0000-0001-7037-1753
+TC 0
+Z9 0
+SN 1323-1316
+EI 1440-1819
+PD OCT
+PY 2020
+VL 74
+IS 10
+BP 516
+EP 526
+DI 10.1111/pcn.13096
+EA AUG 2020
+UT WOS:000561745700001
+PM 32592505
+ER
+
+PT J
+AU Bartos, L
+   Dusek, A
+   Bartosova, J
+   Pluhacek, J
+   Putman, R
+AF Bartos, Ludek
+   Dusek, Adam
+   Bartosova, Jitka
+   Pluhacek, Jan
+   Putman, Rory
+TI How to escape male infanticide: mechanisms for avoiding or terminating
+   pregnancy in mammals
+SO MAMMAL REVIEW
+RI Dusek, Adam/B-5407-2008
+OI Dusek, Adam/0000-0001-8552-4089
+TC 1
+Z9 1
+SN 0305-1838
+EI 1365-2907
+PD JAN
+PY 2021
+VL 51
+IS 1
+BP 143
+EP 153
+DI 10.1111/mam.12219
+EA AUG 2020
+UT WOS:000560353900001
+ER
+
+PT J
+AU Taroco, G
+   Paiva, JT
+   Mourao, GB
+   Ferraz, JBS
+   Mattos, EC
+   Eler, JP
+   Resende, DR
+   Gaya, LG
+AF Taroco, G.
+   Paiva, J. T.
+   Mourao, G. B.
+   Ferraz, J. B. S.
+   Mattos, E. C.
+   Eler, J. P.
+   Resende, D. R.
+   Gaya, L. G.
+TI Genetic parameter and genetic trend estimates for reproductive traits in
+   Wistar rats
+SO ARQUIVO BRASILEIRO DE MEDICINA VETERINARIA E ZOOTECNIA
+RI Eler, Joanir P/C-6762-2013; Mourao, Gerson/D-2064-2012
+OI Eler, Joanir P/0000-0003-2939-4798; Paiva, Jose
+   Teodoro/0000-0003-4739-9736; Resende, Daniela
+   Regina/0000-0003-1775-9008; Taroco, Graziela/0000-0002-7100-6894;
+   Mourao, Gerson/0000-0002-0990-4108
+TC 0
+Z9 0
+SN 0102-0935
+EI 1678-4162
+PD JUL-AUG
+PY 2020
+VL 72
+IS 4
+BP 1479
+EP 1486
+DI 10.1590/1678-4162-11653
+UT WOS:000566697700049
+ER
+
+PT J
+AU Elwood, RW
+   Stolzenberg, DS
+AF Elwood, Robert W.
+   Stolzenberg, Danielle S.
+TI Flipping the parental switch: from killing to caring in male mammals
+SO ANIMAL BEHAVIOUR
+TC 0
+Z9 0
+SN 0003-3472
+EI 1095-8282
+PD JUL
+PY 2020
+VL 165
+BP 133
+EP 142
+DI 10.1016/j.anbehav.2020.05.001
+UT WOS:000565604900016
+ER
+
+PT J
+AU Sauve, AMC
+   Barraquand, F
+AF Sauve, Alix M. C.
+   Barraquand, Frederic
+TI From winter to summer and back: Lessons from the parameterization of a
+   seasonal food web model for the Bialowie(z) over dota forest
+SO JOURNAL OF ANIMAL ECOLOGY
+RI Barraquand, Frederic/G-1599-2011
+OI Barraquand, Frederic/0000-0002-4759-0269
+TC 0
+Z9 0
+SN 0021-8790
+EI 1365-2656
+PD JUL
+PY 2020
+VL 89
+IS 7
+BP 1628
+EP 1644
+DI 10.1111/1365-2656.13227
+EA MAY 2020
+UT WOS:000533525300001
+PM 32248533
+ER
+
+PT J
+AU Stokes, RH
+   Sandel, AA
+AF Stokes, Rachel H.
+   Sandel, Aaron A.
+TI Data quality and the comparative method: the case of pregnancy failure
+   in rodents
+SO JOURNAL OF MAMMALOGY
+OI Sandel, Aaron/0000-0003-3060-5310
+TC 2
+Z9 2
+SN 0022-2372
+EI 1545-1542
+PD OCT 22
+PY 2019
+VL 100
+IS 5
+BP 1436
+EP 1446
+DI 10.1093/jmammal/gyz096
+UT WOS:000493469100005
+ER
+
+PT J
+AU Brajon, S
+   Morello, GM
+   Teixeira, MS
+   Hultgren, J
+   Gilbert, C
+   Olsson, IAS
+AF Brajon, Sophie
+   Morello, Gabriela Munhoz
+   Teixeira, Marta Sofia
+   Hultgren, Jan
+   Gilbert, Colin
+   Olsson, I. Anna S.
+TI Social environment as a cause of litter loss in laboratory mouse: A
+   behavioural study
+SO APPLIED ANIMAL BEHAVIOUR SCIENCE
+OI Olsson, Anna/0000-0002-4369-8723; brajon, sophie/0000-0003-2951-9888
+TC 2
+Z9 2
+SN 0168-1591
+EI 1872-9045
+PD SEP
+PY 2019
+VL 218
+AR 104827
+DI 10.1016/j.applanim.2019.06.008
+UT WOS:000500193200007
+ER
+
+PT J
+AU Thonhauser, KE
+   Raffetzeder, A
+   Penn, DJ
+AF Thonhauser, Kerstin E.
+   Raffetzeder, Alexandra
+   Penn, Dustin J.
+TI Sexual experience has no effect on male mating or reproductive success
+   in house mice
+SO SCIENTIFIC REPORTS
+OI Raffetzeder, Alexandra/0000-0002-7708-5888; Auer (Thonhauser), Kerstin
+   E./0000-0002-6399-1388
+TC 4
+Z9 4
+SN 2045-2322
+PD AUG 21
+PY 2019
+VL 9
+AR 12145
+DI 10.1038/s41598-019-48392-x
+UT WOS:000481998400003
+PM 31434936
+ER
+
+PT J
+AU Breedveld, MC
+   Folkertsma, R
+   Eccard, JA
+AF Breedveld, Mere C.
+   Folkertsma, Remco
+   Eccard, Jana A.
+TI Rodent mothers increase vigilance behaviour when facing infanticide risk
+SO SCIENTIFIC REPORTS
+OI Breedveld, Merel Cathelijne/0000-0002-3198-7683
+TC 0
+Z9 0
+SN 2045-2322
+PD AUG 19
+PY 2019
+VL 9
+AR 12054
+DI 10.1038/s41598-019-48459-9
+UT WOS:000481590200095
+PM 31427633
+ER
+
+PT J
+AU Smith, RL
+   Smith, P
+AF Smith, Rebecca L.
+   Smith, Paul
+TI Wild observation of infanticide and cannibalism by Azara's Agouti
+   (Dasyptocta azarae) (Mammalia: Dasyproctidae) in Paraguay
+SO ETHOLOGY
+TC 2
+Z9 2
+SN 0179-1613
+EI 1439-0310
+PD NOV
+PY 2019
+VL 125
+IS 11
+BP 846
+EP 850
+DI 10.1111/eth.12937
+EA AUG 2019
+UT WOS:000480885500001
+ER
+
+PT J
+AU Powell, CA
+   Choudhury, M
+AF Powell, Catherine A.
+   Choudhury, Mahua
+TI Advancing metabolism research to overcome low litter survival in
+   metabolically stressed mice
+SO AMERICAN JOURNAL OF PHYSIOLOGY-ENDOCRINOLOGY AND METABOLISM
+TC 1
+Z9 1
+SN 0193-1849
+EI 1522-1555
+PD AUG
+PY 2019
+VL 317
+IS 2
+BP E261
+EP E268
+DI 10.1152/ajpendo.00024.2019
+UT WOS:000481599900002
+PM 31084500
+ER
+
+PT J
+AU Schradin, C
+   Pillay, N
+   Bertelsmeier, C
+AF Schradin, Carsten
+   Pillay, Neville
+   Bertelsmeier, Cleo
+TI Social flexibility and environmental unpredictability in African striped
+   mice
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+OI Pillay, Neville/0000-0002-0778-726X; Bertelsmeier,
+   Cleo/0000-0003-3624-1300
+TC 4
+Z9 4
+SN 0340-5443
+EI 1432-0762
+PD JUL
+PY 2019
+VL 73
+IS 7
+AR 94
+DI 10.1007/s00265-019-2707-7
+UT WOS:000472557300001
+ER
+
+PT J
+AU Moreira, VB
+   Mattaraia, VGM
+   Rodrigues, MV
+   de Albuquerqu, CZ
+   Moura, ASAMT
+AF Moreira, Virginia B.
+   Mattaraia, Vania G. M.
+   Rodrigues, Mariana, V
+   de Albuquerqu, Cynthia Z.
+   Moura, Ana Silvia A. M. T.
+TI Parental behavior and anxiety in isogenic and outbred mice given access
+   to two types of nesting materials
+SO APPLIED ANIMAL BEHAVIOUR SCIENCE
+RI Moura, Ana Silvia/G-5086-2012
+OI Moura, Ana Silvia/0000-0002-2105-7319
+TC 1
+Z9 1
+SN 0168-1591
+EI 1872-9045
+PD JUN
+PY 2019
+VL 215
+BP 68
+EP 76
+DI 10.1016/j.applanim.2019.03.012
+UT WOS:000471081500010
+ER
+
+PT J
+AU Zipple, MN
+   Roberts, EK
+   Alberts, SC
+   Beehner, JC
+AF Zipple, Matthew N.
+   Roberts, Eila K.
+   Alberts, Susan C.
+   Beehner, Jacinta C.
+TI Male-mediated prenatal loss: Functions and mechanisms
+SO EVOLUTIONARY ANTHROPOLOGY
+OI Zipple, Matthew/0000-0003-3451-2103
+TC 8
+Z9 8
+SN 1060-1538
+EI 1520-6505
+PD MAY
+PY 2019
+VL 28
+IS 3
+BP 114
+EP 125
+DI 10.1002/evan.21776
+UT WOS:000470724000004
+PM 30953577
+ER
+
+PT J
+AU Koblesky, N
+   Stowers, L
+AF Koblesky, Norah
+   Stowers, Lisa
+TI Animal Behavior: Honesty Can Kill
+SO CURRENT BIOLOGY
+TC 0
+Z9 0
+SN 0960-9822
+EI 1879-0445
+PD APR 1
+PY 2019
+VL 29
+IS 7
+BP R259
+EP R261
+DI 10.1016/j.cub.2019.02.002
+UT WOS:000462931400015
+PM 30939312
+ER
+
+PT J
+AU Romero-Morales, L
+   Cardenas, M
+   Martinez-Torres, M
+   Garcia-Saucedo, B
+   Carmona, A
+   Luis, J
+AF Romero-Morales, Luis
+   Cardenas, Mario
+   Martinez-Torres, Martin
+   Garcia-Saucedo, Brenda
+   Carmona, Agustin
+   Luis, Juana
+TI Neuronal activation associated with paternal and aversive interactions
+   toward pups in the Mongolian gerbils (Meriones unguiculatus)
+SO HORMONES AND BEHAVIOR
+TC 7
+Z9 7
+SN 0018-506X
+EI 1095-6867
+PD SEP
+PY 2018
+VL 105
+BP 47
+EP 57
+DI 10.1016/j.yhbeh.2018.07.010
+UT WOS:000452246600006
+PM 30056092
+ER
+
+PT J
+AU Zafar, T
+   Naik, A
+   Shrivastava, VK
+AF Zafar, Tabassum
+   Naik, Ab Qayoom
+   Shrivastava, Vinoy K.
+TI Effect of cold stress on infanticide by female Swiss albino mice Mus
+   musculus: a pilot study
+SO JOURNAL OF ANIMAL SCIENCE AND TECHNOLOGY
+RI Naik, Qayoom/AAF-5361-2021
+TC 2
+Z9 2
+SN 2672-0191
+EI 2055-0391
+PD APR 23
+PY 2018
+VL 60
+AR 7
+DI 10.1186/s40781-018-0168-6
+UT WOS:000430585400001
+PM 29713492
+ER
+
+PT J
+AU Hattori, T
+   Osakada, T
+   Masaoka, T
+   Ooyama, R
+   Horio, N
+   Mogi, K
+   Nagasawa, M
+   Haga-Yamanaka, S
+   Touhara, K
+   Kikusui, T
+AF Hattori, Tatsuya
+   Osakada, Takuya
+   Masaoka, Takuto
+   Ooyama, Rumi
+   Horio, Nao
+   Mogi, Kazutaka
+   Nagasawa, Miho
+   Haga-Yamanaka, Sachiko
+   Touhara, Kazushige
+   Kikusui, Takefumi
+TI Exocrine Gland-Secreting Peptide 1 Is a Key Chemosensory Signal
+   Responsible for the Bruce Effect in Mice
+SO CURRENT BIOLOGY
+OI Mogi, Kazutaka/0000-0002-0689-9761
+TC 13
+Z9 13
+SN 0960-9822
+EI 1879-0445
+PD OCT 23
+PY 2017
+VL 27
+IS 20
+BP 3197
+EP +
+DI 10.1016/j.cub.2017.09.013
+UT WOS:000413441700033
+PM 29033330
+ER
+
+PT J
+AU Eccard, JA
+   Dammhahn, M
+   Ylonen, H
+AF Eccard, Jana A.
+   Dammhahn, Melanie
+   Ylonen, Hannu
+TI The Bruce effect revisited: is pregnancy termination in female rodents
+   an adaptation to ensure breeding success after male turnover in low
+   densities?
+SO OECOLOGIA
+RI Dammhahn, Melanie/AAD-5479-2019
+TC 11
+Z9 11
+SN 0029-8549
+EI 1432-1939
+PD SEP
+PY 2017
+VL 185
+IS 1
+BP 81
+EP 94
+DI 10.1007/s00442-017-3904-6
+UT WOS:000410497400008
+PM 28791488
+ER
+
+PT J
+AU Smarr, BL
+   Grant, AD
+   Perez, L
+   Zucker, I
+   Kriegsfeld, LJ
+AF Smarr, Benjamin L.
+   Grant, Azure D.
+   Perez, Luz
+   Zucker, Irving
+   Kriegsfeld, Lance J.
+TI Maternal and Early-Life Circadian Disruption Have Long-Lasting Negative
+   Consequences on Offspring Development and Adult Behavior in Mice
+SO SCIENTIFIC REPORTS
+TC 16
+Z9 17
+SN 2045-2322
+PD JUN 12
+PY 2017
+VL 7
+AR 3326
+DI 10.1038/s41598-017-03406-4
+UT WOS:000403082700011
+PM 28607386
+ER
+
+PT J
+AU Benderlioglu, Z
+   Dow, E
+AF Benderlioglu, Zeynep
+   Dow, Eliot
+TI Low temperatures during ontogeny increase fluctuating asymmetry and
+   reduce maternal aggression in the house mouse, Mus musculus
+SO ETHOLOGY
+TC 2
+Z9 2
+SN 0179-1613
+EI 1439-0310
+PD JUN-JUL
+PY 2017
+VL 123
+IS 6-7
+BP 442
+EP 452
+DI 10.1111/eth.12614
+UT WOS:000403456000006
+PM 29062162
+ER
+
+PT J
+AU Ylonen, H
+   Kasi, M
+   Opperbeck, A
+   Haapakoski, M
+   Sundell, J
+AF Ylonen, Hannu
+   Kasi, Marjo
+   Opperbeck, Annika
+   Haapakoski, Marko
+   Sundell, Janne
+TI How Do Infanticidal Male Bank Voles (Myodes glareolus) Find the Nest
+   with Pups?
+SO ETHOLOGY
+OI Haapakoski, Marko/0000-0003-0901-6319
+TC 2
+Z9 2
+SN 0179-1613
+EI 1439-0310
+PD FEB
+PY 2017
+VL 123
+IS 2
+BP 105
+EP 112
+DI 10.1111/eth.12579
+UT WOS:000393182800002
+ER
+
+PT J
+AU Ilchibaeva, TV
+   Tsybko, AS
+   Kozhemyakina, RV
+   Konoshenko, MY
+   Popova, NK
+   Naumenko, VS
+AF Ilchibaeva, Tatiana V.
+   Tsybko, Anton S.
+   Kozhemyakina, Rimma V.
+   Konoshenko, Maria Y.
+   Popova, Nina K.
+   Naumenko, Vladimir S.
+TI The relationship between different types of genetically defined
+   aggressive behavior
+SO JOURNAL OF ETHOLOGY
+RI Tsybko, Anton/AAN-8043-2020; Naumenko, Vladimir/R-3096-2018;
+   Kozhemyakina, Rimma/AAO-3296-2020; Ilchibaeva, Tatiana/AAE-1228-2021;
+   Ilchibaeva, Tatiana/AAN-8072-2020; Konoshenko, Maria/AAH-9257-2019
+TC 4
+Z9 4
+SN 0289-0771
+EI 1439-5444
+PD JAN
+PY 2017
+VL 35
+IS 1
+BP 75
+EP 81
+DI 10.1007/s10164-016-0493-5
+UT WOS:000392031600009
+ER
+
+PT J
+AU Hsieh, H
+   Simons, M
+   Hartman, J
+   Dale, H
+AF Hsieh, H.
+   Simons, M.
+   Hartman, J.
+   Dale, H.
+TI Effects of Social Housing on Cannibalism in Mice and Rats
+SO INTERNATIONAL JOURNAL OF TOXICOLOGY
+CT 37th Annual Meeting of the American-College-of-Toxicology (ACT)
+CY NOV 06-09, 2016
+CL Baltimore, MD
+TC 0
+Z9 0
+SN 1091-5818
+EI 1092-874X
+PD JAN-FEB
+PY 2017
+VL 36
+IS 1
+MA P405
+BP 74
+EP 74
+UT WOS:000397225300067
+ER
+
+PT J
+AU Harrison, N
+   Lopes, PC
+   Konig, B
+AF Harrison, Nicola
+   Lopes, Patricia C.
+   Koenig, Barbara
+TI Oxytocin administration during early pair formation delays communal
+   nursing in female house mice
+SO ANIMAL BEHAVIOUR
+OI Soares Castro Lopes, Patricia/0000-0001-5170-3230
+TC 4
+Z9 4
+SN 0003-3472
+EI 1095-8282
+PD JAN
+PY 2017
+VL 123
+BP 61
+EP 68
+DI 10.1016/j.anbehav.2016.10.030
+UT WOS:000391840900008
+ER
+
+PT J
+AU Weaver, SR
+   Cronick, CM
+   Prichard, AP
+   Laporta, J
+   Benevenga, NJ
+   Hernandez, LL
+AF Weaver, S. R.
+   Cronick, C. M.
+   Prichard, A. P.
+   Laporta, J.
+   Benevenga, N. J.
+   Hernandez, L. L.
+TI Use of the RatLoft decreases pup mortality in lactating mice
+SO LABORATORY ANIMALS
+TC 1
+Z9 1
+SN 0023-6772
+EI 1758-1117
+PD OCT
+PY 2016
+VL 50
+IS 5
+BP 370
+EP 378
+DI 10.1177/0023677215617388
+UT WOS:000384812600005
+PM 26568578
+ER
+
+PT J
+AU Garner, JP
+   Gaskill, BN
+   Pritchett-Corning, KR
+AF Garner, Joseph P.
+   Gaskill, Brianna N.
+   Pritchett-Corning, Kathleen R.
+TI Two of a Kind or a Full House? Reproductive Suppression and
+   Alloparenting in Laboratory Mice
+SO PLOS ONE
+RI Garner, Joseph P/C-8422-2009
+OI Gaskill, Brianna/0000-0002-1884-803X
+TC 5
+Z9 5
+SN 1932-6203
+PD MAY 5
+PY 2016
+VL 11
+IS 5
+AR e0154966
+DI 10.1371/journal.pone.0154966
+UT WOS:000375676800103
+PM 27148872
+ER
+
+PT J
+AU Hill, DL
+   Pillay, N
+   Schradin, C
+AF Hill, Davina L.
+   Pillay, Neville
+   Schradin, Carsten
+TI Alternative reproductive tactics in female striped mice: heavier females
+   are more likely to breed solitarily than communally
+SO JOURNAL OF ANIMAL ECOLOGY
+RI Schradin, Carsten/A-1534-2013; Hill, Davina/A-9087-2015
+OI Schradin, Carsten/0000-0002-2706-2960; Hill, Davina/0000-0001-9085-6192;
+   Pillay, Neville/0000-0002-0778-726X
+TC 11
+Z9 11
+SN 0021-8790
+EI 1365-2656
+PD NOV
+PY 2015
+VL 84
+IS 6
+BP 1497
+EP 1508
+DI 10.1111/1365-2656.12431
+UT WOS:000362741000006
+PM 26250697
+ER
+
+PT J
+AU Orikasa, C
+   Nagaoka, K
+   Katsumata, H
+   Sato, M
+   Kondo, Y
+   Minami, S
+   Sakuma, Y
+AF Orikasa, Chitose
+   Nagaoka, Kentaro
+   Katsumata, Harumi
+   Sato, Manami
+   Kondo, Yasuhiko
+   Minami, Shiro
+   Sakuma, Yasuo
+TI Social isolation prompts maternal behavior in sexually naive male ddN
+   mice
+SO PHYSIOLOGY & BEHAVIOR
+RI Nagaoka, Kentaro/C-2019-2013; Sakuma, Yasuo/C-5604-2011
+OI Nagaoka, Kentaro/0000-0003-1038-1380; Sakuma, Yasuo/0000-0001-6816-3779
+TC 3
+Z9 3
+SN 0031-9384
+PD NOV 1
+PY 2015
+VL 151
+BP 9
+EP 15
+DI 10.1016/j.physbeh.2015.07.007
+UT WOS:000362602600002
+PM 26166155
+ER
+
+PT J
+AU Palombit, RA
+AF Palombit, Ryne A.
+TI Infanticide as Sexual Conflict: Coevolution of Male Strategies and
+   Female Counterstrategies
+SO COLD SPRING HARBOR PERSPECTIVES IN BIOLOGY
+TC 27
+Z9 27
+SN 1943-0264
+PD JUN
+PY 2015
+VL 7
+IS 6
+AR a017640
+DI 10.1101/cshperspect.a017640
+UT WOS:000358241300005
+ER
+
+PT J
+AU Alsina-Llanes, M
+   De Brun, V
+   Olazabal, DE
+AF Alsina-Llanes, Marcela
+   De Brun, Victoria
+   Olazabal, Daniel E.
+TI Development and Expression of Maternal Behavior in Naive Female C57BL/6
+   Mice
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+TC 8
+Z9 9
+SN 0012-1630
+EI 1098-2302
+PD MAR
+PY 2015
+VL 57
+IS 2
+BP 189
+EP 200
+DI 10.1002/dev.21276
+UT WOS:000349968100005
+PM 25604552
+ER
+
+PT J
+AU Schmidt, J
+   Kosztolanyi, A
+   Tokolyi, J
+   Hugyecz, B
+   Illes, I
+   Kiraly, R
+   Barta, Z
+AF Schmidt, Julia
+   Kosztolanyi, Andras
+   Toekoelyi, Jacint
+   Hugyecz, Boglarka
+   Illes, Ildiko
+   Kiraly, Rozalia
+   Barta, Zoltan
+TI Reproductive asynchrony and infanticide in house mice breeding
+   communally
+SO ANIMAL BEHAVIOUR
+RI Kosztolanyi, Andras/B-8008-2016
+OI Kosztolanyi, Andras/0000-0002-9109-5871; Barta,
+   Zoltan/0000-0002-7121-9865
+TC 11
+Z9 11
+SN 0003-3472
+EI 1095-8282
+PD MAR
+PY 2015
+VL 101
+BP 201
+EP 211
+DI 10.1016/j.anbehav.2014.12.015
+UT WOS:000351020200022
+ER
+
+PT J
+AU Auclair, Y
+   Konig, B
+   Lindholm, AK
+AF Auclair, Yannick
+   Koenig, Barbara
+   Lindholm, Anna K.
+TI Socially mediated polyandry: a new benefit of communal nesting in
+   mammals
+SO BEHAVIORAL ECOLOGY
+RI Lindholm, Anna K/E-5207-2012
+OI Lindholm, Anna K/0000-0001-8460-9769; Konig, Barbara/0000-0001-7696-4736
+TC 16
+Z9 16
+SN 1045-2249
+EI 1465-7279
+PD NOV-DEC
+PY 2014
+VL 25
+IS 6
+BP 1467
+EP 1473
+DI 10.1093/beheco/aru143
+UT WOS:000345432900029
+PM 25419087
+ER
+
+PT J
+AU Angoa-Perez, M
+   Kane, MJ
+   Sykes, CE
+   Perrine, SA
+   Church, MW
+   Kuhn, DM
+AF Angoa-Perez, M.
+   Kane, M. J.
+   Sykes, C. E.
+   Perrine, S. A.
+   Church, M. W.
+   Kuhn, D. M.
+TI Brain serotonin determines maternal behavior and offspring survival
+SO GENES BRAIN AND BEHAVIOR
+TC 39
+Z9 40
+SN 1601-1848
+EI 1601-183X
+PD SEP
+PY 2014
+VL 13
+IS 7
+BP 579
+EP 591
+DI 10.1111/gbb.12159
+UT WOS:000342823600001
+PM 25077934
+ER
+
+PT J
+AU Dulac, C
+   O'Connell, LA
+   Wu, Z
+AF Dulac, Catherine
+   O'Connell, Lauren A.
+   Wu, Zheng
+TI Neural control of maternal and paternal behaviors
+SO SCIENCE
+OI O'Connell, Lauren/0000-0002-2706-4077
+TC 172
+Z9 172
+SN 0036-8075
+EI 1095-9203
+PD AUG 15
+PY 2014
+VL 345
+IS 6198
+BP 765
+EP 770
+DI 10.1126/science.1253291
+UT WOS:000340593100034
+PM 25124430
+ER
+
+PT J
+AU Auclair, Y
+   Konig, B
+   Ferrari, M
+   Perony, N
+   Lindholm, AK
+AF Auclair, Yannick
+   Koenig, Barbara
+   Ferrari, Manuela
+   Perony, Nicolas
+   Lindholm, Anna K.
+TI Nest attendance of lactating females in a wild house mouse population:
+   benefits associated with communal nesting
+SO ANIMAL BEHAVIOUR
+RI Lindholm, Anna K/E-5207-2012; Schweitzer, Frank/B-2127-2012; Ferrari,
+   Manuela/K-7909-2019
+OI Lindholm, Anna K/0000-0001-8460-9769; Schweitzer,
+   Frank/0000-0003-1551-6491; Ferrari, Manuela/0000-0003-4610-2806; Perony,
+   Nicolas/0000-0002-2918-163X
+TC 24
+Z9 25
+SN 0003-3472
+EI 1095-8282
+PD JUN
+PY 2014
+VL 92
+BP 143
+EP 149
+DI 10.1016/j.anbehav.2014.03.008
+UT WOS:000338281000019
+ER
+
+PT J
+AU Thonhauser, KE
+   Raveh, S
+   Hettyey, A
+   Beissmann, H
+   Penn, DJ
+AF Thonhauser, Kerstin E.
+   Raveh, Shirley
+   Hettyey, Attila
+   Beissmann, Helmut
+   Penn, Dustin J.
+TI Why do female mice mate with multiple males?
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+OI Hettyey, Attila/0000-0003-0678-0936; Auer (Thonhauser), Kerstin
+   E./0000-0002-6399-1388
+TC 21
+Z9 21
+SN 0340-5443
+EI 1432-0762
+PD DEC
+PY 2013
+VL 67
+IS 12
+BP 1961
+EP 1970
+DI 10.1007/s00265-013-1604-8
+UT WOS:000327074200007
+PM 24273373
+ER
+
+PT J
+AU Weber, EM
+   Algers, B
+   Hultgren, J
+   Olsson, IAS
+AF Weber, Elin M.
+   Algers, Bo
+   Hultgren, Jan
+   Olsson, I. Anna S.
+TI Pup mortality in laboratory mice - infanticide or not?
+SO ACTA VETERINARIA SCANDINAVICA
+RI Olsson, Anna/C-1792-2008
+OI Olsson, Anna/0000-0002-4369-8723; Hultgren, Jan/0000-0001-9164-2321
+TC 27
+Z9 28
+SN 0044-605X
+EI 1751-0147
+PD NOV 20
+PY 2013
+VL 55
+AR 83
+DI 10.1186/1751-0147-55-83
+UT WOS:000328953800001
+PM 24256697
+ER
+
+PT J
+AU Tsuneoka, Y
+   Maruyama, T
+   Yoshida, S
+   Nishimori, K
+   Kato, T
+   Numan, M
+   Kuroda, KO
+AF Tsuneoka, Yousuke
+   Maruyama, Teppo
+   Yoshida, Sachine
+   Nishimori, Katsuhiko
+   Kato, Tadafumi
+   Numan, Michael
+   Kuroda, Kumi O.
+TI Functional, anatomical, and neurochemical differentiation of medial
+   preoptic area subregions in relation to maternal behavior in the mouse
+SO JOURNAL OF COMPARATIVE NEUROLOGY
+RI Kato, Tadafumi/J-3583-2014; Kuroda, Kumi O/A-3312-2013
+OI Kato, Tadafumi/0000-0001-7856-3952; 
+TC 84
+Z9 84
+SN 0021-9967
+EI 1096-9861
+PD MAY 1
+PY 2013
+VL 521
+IS 7
+BP 1633
+EP 1663
+DI 10.1002/cne.23251
+UT WOS:000316421900011
+PM 23124836
+ER
+
+PT J
+AU Weber, EM
+   Algers, B
+   Wurbel, H
+   Hultgren, J
+   Olsson, IAS
+AF Weber, E. M.
+   Algers, B.
+   Wuerbel, H.
+   Hultgren, J.
+   Olsson, I. A. S.
+TI Influence of Strain and Parity on the Risk of Litter Loss in Laboratory
+   Mice
+SO REPRODUCTION IN DOMESTIC ANIMALS
+RI Wurbel, Hanno/D-6281-2012; Olsson, Anna/C-1792-2008
+OI Wurbel, Hanno/0000-0002-2934-3010; Olsson, Anna/0000-0002-4369-8723;
+   Algers, Bo/0000-0002-5647-4892; Hultgren, Jan/0000-0001-9164-2321
+TC 23
+Z9 23
+SN 0936-6768
+PD APR
+PY 2013
+VL 48
+IS 2
+BP 292
+EP 296
+DI 10.1111/j.1439-0531.2012.02147.x
+UT WOS:000316323800023
+PM 22809230
+ER
+
+PT J
+AU Tachikawa, KS
+   Yoshihara, Y
+   Kuroda, KO
+AF Tachikawa, Kashiko S.
+   Yoshihara, Yoshihiro
+   Kuroda, Kumi O.
+TI Behavioral Transition from Attack to Parenting in Male Mice: A Crucial
+   Role of the Vomeronasal System
+SO JOURNAL OF NEUROSCIENCE
+RI Kuroda, Kumi O/A-3312-2013; Yoshihara, Yoshihiro/N-6481-2015
+OI Yoshihara, Yoshihiro/0000-0002-0319-7166
+TC 70
+Z9 70
+SN 0270-6474
+EI 1529-2401
+PD MAR 20
+PY 2013
+VL 33
+IS 12
+BP 5120
+EP 5126
+DI 10.1523/JNEUROSCI.2364-12.2013
+UT WOS:000316553800006
+PM 23516278
+ER
+
+PT J
+AU Ba, A
+AF Ba, Abdoulaye
+TI Perinatal thiamine deficiency-induced spontaneous abortion and
+   pup-killing responses in rat dams
+SO NUTRITIONAL NEUROSCIENCE
+RI BA, Abdoulaye/N-2247-2019
+OI BA, Abdoulaye/0000-0001-7314-4572
+TC 6
+Z9 7
+SN 1028-415X
+EI 1476-8305
+PD MAR
+PY 2013
+VL 16
+IS 2
+BP 69
+EP 77
+DI 10.1179/1476830512Y.0000000032
+UT WOS:000317350400004
+PM 22889588
+ER
+
+PT S
+AU Kuroda, KO
+   Tsuneoka, Y
+AF Kuroda, Kumi O.
+   Tsuneoka, Yousuke
+BE Touhara, K
+TI Assessing Postpartum Maternal Care, Alloparental Behavior, and
+   Infanticide in Mice: With Notes on Chemosensory Influences
+SO PHEROMONE SIGNALING: METHODS AND PROTOCOLS
+SE Methods in Molecular Biology
+RI Kuroda, Kumi O/A-3312-2013
+TC 10
+Z9 10
+SN 1064-3745
+EI 1940-6029
+BN 978-1-62703-619-1; 978-1-62703-618-4
+PY 2013
+VL 1068
+BP 331
+EP 347
+DI 10.1007/978-1-62703-619-1_25
+D2 10.1007/978-1-62703-619-1
+UT WOS:000325691300026
+PM 24014374
+ER
+
+PT J
+AU Tuma, J
+   Cendelin, J
+   Vozeh, F
+AF Tuma, Jan
+   Cendelin, Jan
+   Vozeh, Frantisek
+TI Maternal infanticide and low maternal ability in cerebellar mutants
+   Lurcher
+SO NEUROENDOCRINOLOGY LETTERS
+RI Tuma, Jan/A-1572-2010; Cendelin, Jan/P-6550-2015; Vozeh,
+   Frantisek/J-8684-2017
+OI Tuma, Jan/0000-0002-7197-8482; Cendelin, Jan/0000-0002-9449-3058; Vozeh,
+   Frantisek/0000-0003-1534-3180
+TC 3
+Z9 3
+SN 0172-780X
+PY 2013
+VL 34
+IS 7
+BP 618
+EP 623
+UT WOS:000330900400007
+PM 24464008
+ER
+
+PT J
+AU de Jong, TR
+   Korosi, A
+   Harris, BN
+   Perea-Rodriguez, JP
+   Saltzman, W
+AF de Jong, Trynke R.
+   Korosi, Aniko
+   Harris, Breanna N.
+   Perea-Rodriguez, Juan Pablo
+   Saltzman, Wendy
+TI Individual Variation in Paternal Responses of Virgin Male California
+   Mice (Peromyscus californicus): Behavioral and Physiological Correlates
+SO PHYSIOLOGICAL AND BIOCHEMICAL ZOOLOGY
+RI de Jong, Trynke R./D-8989-2013
+OI de Jong, Trynke R./0000-0001-8361-6895; Harris,
+   Breanna/0000-0002-2239-0914
+TC 22
+Z9 22
+SN 1522-2152
+EI 1537-5293
+PD NOV-DEC
+PY 2012
+VL 85
+IS 6
+BP 740
+EP 751
+DI 10.1086/665831
+UT WOS:000310564700017
+PM 23099470
+ER
+
+PT J
+AU Hamalainen, A
+AF Haemaelaeinen, Anni
+TI A Case of Adult Cannibalism in the Gray Mouse Lemur, Microcebus murinus
+SO AMERICAN JOURNAL OF PRIMATOLOGY
+RI Hamalainen, Anni/E-1890-2018; Hamalainen, Anni/L-9894-2018; Hamalainen,
+   Anni/AAO-2881-2020
+OI Hamalainen, Anni/0000-0001-9260-8299; Hamalainen,
+   Anni/0000-0001-9260-8299; 
+TC 3
+Z9 3
+SN 0275-2565
+EI 1098-2345
+PD SEP
+PY 2012
+VL 74
+IS 9
+BP 783
+EP 787
+DI 10.1002/ajp.22034
+UT WOS:000306484400001
+PM 22623272
+ER
+
+PT J
+AU Roberts, EK
+   Lu, A
+   Bergman, TJ
+   Beehner, JC
+AF Roberts, Eila K.
+   Lu, Amy
+   Bergman, Thore J.
+   Beehner, Jacinta C.
+TI A Bruce Effect in Wild Geladas
+SO SCIENCE
+RI Bergman, Thore J/B-8196-2008; Beehner, Jacinta/E-8467-2012
+OI Bergman, Thore J/0000-0002-9615-5001; Beehner,
+   Jacinta/0000-0001-6566-6872
+TC 76
+Z9 77
+SN 0036-8075
+PD MAR 9
+PY 2012
+VL 335
+IS 6073
+BP 1222
+EP 1225
+DI 10.1126/science.1213600
+UT WOS:000301225100044
+PM 22362878
+ER
+
+PT J
+AU Luis, J
+   Cadena, C
+   Zedillo, B
+   Reyes, J
+   Ramos, G
+   Martinez, M
+AF Luis, J.
+   Cadena, C.
+   Zedillo, B.
+   Reyes, J.
+   Ramos, G.
+   Martinez, M.
+TI Testosterone replacement induced paternal behaviour in the Mexican
+   volcano mouse Neotomodon alstoni (Rodentia Muridae)
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 5
+Z9 5
+SN 0394-9370
+EI 1828-7131
+PY 2012
+VL 24
+IS 3
+BP 275
+EP 283
+DI 10.1080/03949370.2012.661374
+UT WOS:000308102600005
+ER
+
+PT J
+AU Heiming, RS
+   Bodden, C
+   Jansen, F
+   Lewejohann, L
+   Kaiser, S
+   Lesch, KP
+   Palme, R
+   Sachser, N
+AF Heiming, Rebecca S.
+   Bodden, Carina
+   Jansen, Friederike
+   Lewejohann, Lars
+   Kaiser, Sylvia
+   Lesch, Klaus-Peter
+   Palme, Rupert
+   Sachser, Norbert
+TI Living in a dangerous world decreases maternal care: A study in
+   serotonin transporter knockout mice
+SO HORMONES AND BEHAVIOR
+RI Lewejohann, Lars/H-3717-2013; Palme, Rupert/AAC-7981-2020; Palme,
+   Rupert/A-3499-2008; Lesch, Klaus-Peter/J-4906-2013
+OI Lewejohann, Lars/0000-0002-0202-4351; Palme, Rupert/0000-0001-9466-3662;
+   Palme, Rupert/0000-0001-9466-3662; Lesch,
+   Klaus-Peter/0000-0001-8348-153X; Bodden, Carina/0000-0002-8749-8846
+TC 25
+Z9 26
+SN 0018-506X
+EI 1095-6867
+PD SEP
+PY 2011
+VL 60
+IS 4
+BP 397
+EP 407
+DI 10.1016/j.yhbeh.2011.07.006
+UT WOS:000294834100011
+PM 21787775
+ER
+
+PT J
+AU Wranning, CA
+   Akhi, SN
+   Diaz-Garcia, C
+   Brannstrom, M
+AF Wranning, Caiza A.
+   Akhi, Shamima N.
+   Diaz-Garcia, Cesar
+   Brannstrom, Mats
+TI Pregnancy after syngeneic uterus transplantation and spontaneous mating
+   in the rat
+SO HUMAN REPRODUCTION
+OI Diaz-Garcia, Cesar/0000-0002-2773-1343
+TC 72
+Z9 75
+SN 0268-1161
+PD MAR
+PY 2011
+VL 26
+IS 3
+BP 553
+EP 558
+DI 10.1093/humrep/deq358
+UT WOS:000287252800007
+PM 21159686
+ER
+
+PT J
+AU Cizkova, B
+   Sumbera, R
+   Frynta, D
+AF Cizkova, Barbora
+   Sumbera, Radim
+   Frynta, Daniel
+TI A new member or an intruder: how do Sinai spiny mouse (Acomys
+   dimidiatus) families respond to a male newcomer?
+SO BEHAVIOUR
+RI Frynta, Daniel/L-7350-2016; Sumbera, Radim/D-9072-2016
+OI Frynta, Daniel/0000-0002-1375-7972; Sumbera, Radim/0000-0001-8658-9378
+TC 2
+Z9 2
+SN 0005-7959
+EI 1568-539X
+PY 2011
+VL 148
+IS 8
+BP 889
+EP 908
+DI 10.1163/000579511X583385
+UT WOS:000295400500003
+ER
+
+PT J
+AU Korpela, K
+   Sundell, J
+   Ylonen, H
+AF Korpela, Katri
+   Sundell, Janne
+   Ylonen, Hannu
+TI Does personality in small rodents vary depending on population density?
+SO OECOLOGIA
+TC 34
+Z9 39
+SN 0029-8549
+EI 1432-1939
+PD JAN
+PY 2011
+VL 165
+IS 1
+BP 67
+EP 77
+DI 10.1007/s00442-010-1810-2
+UT WOS:000285782600007
+PM 20976607
+ER
+
+PT J
+AU Vihervaara, H
+   Sundell, J
+   Ylonen, H
+AF Vihervaara, Hanne
+   Sundell, Janne
+   Ylonen, Hannu
+TI Is Mating Alone Enough to Inhibit Infanticide in Male Bank Voles?
+SO ETHOLOGY
+TC 7
+Z9 8
+SN 0179-1613
+PD SEP
+PY 2010
+VL 116
+IS 9
+BP 888
+EP 894
+DI 10.1111/j.1439-0310.2010.01806.x
+UT WOS:000280632700010
+ER
+
+PT J
+AU Lupicki, D
+   Cichocki, J
+   Szkudlarek, R
+   Wazna, A
+AF Lupicki, Dariusz
+   Cichocki, Jan
+   Szkudlarek, Rafal
+   Wazna, Agnieszka
+TI Cannibalism in maternity colonies of the greater mouse-eared bat Myotis
+   myotis
+SO MAMMALIA
+RI Lupicki, Dariusz/B-6554-2017
+OI Wazna, Agnieszka/0000-0002-2205-8364; Cichocki, Jan/0000-0002-3460-4916;
+   Dariusz, Lupicki/0000-0002-3825-5274
+TC 4
+Z9 4
+SN 0025-1461
+EI 1864-1547
+PD SEP
+PY 2010
+VL 74
+IS 3
+BP 339
+EP 341
+DI 10.1515/MAMM.2010.031
+UT WOS:000281686400014
+ER
+
+PT J
+AU Sanderson, AE
+   Multari, HM
+   Lohmiller, JJ
+   Boutin, SR
+AF Sanderson, Amy E.
+   Multari, Heather M.
+   Lohmiller, Jeffrey J.
+   Boutin, Samuel R.
+TI Effect of cage-change frequency on rodent breeding performance
+SO LAB ANIMAL
+TC 6
+Z9 6
+SN 0093-7355
+EI 1548-4475
+PD JUN
+PY 2010
+VL 39
+IS 6
+BP 177
+EP 182
+DI 10.1038/laban0610-177
+UT WOS:000278381000013
+PM 20485357
+ER
+
+PT J
+AU Keller, M
+   Pawluski, JL
+   Brock, O
+   Douhard, Q
+   Bakker, J
+AF Keller, Matthieu
+   Pawluski, Jodi L.
+   Brock, Olivier
+   Douhard, Quentin
+   Bakker, Julie
+TI The alpha-fetoprotein knock-out mouse model suggests that parental
+   behavior is sexually differentiated under the influence of prenatal
+   estradiol
+SO HORMONES AND BEHAVIOR
+RI Keller, Matthieu/Q-1431-2019; Pawluski, Jodi L/K-5801-2015
+OI Keller, Matthieu/0000-0002-5445-7431; Pawluski, Jodi
+   L/0000-0002-8240-8178; Brock, Olivier/0000-0003-1965-7531
+TC 13
+Z9 13
+SN 0018-506X
+EI 1095-6867
+PD APR
+PY 2010
+VL 57
+IS 4-5
+BP 434
+EP 440
+DI 10.1016/j.yhbeh.2010.01.013
+UT WOS:000276799700010
+PM 20109458
+ER
+
+PT J
+AU Korpela, K
+   Sundell, J
+   Ylonen, H
+AF Korpela, Katri
+   Sundell, Janne
+   Ylonen, Hannu
+TI Density dependence of infanticide and recognition of pup sex in male
+   bank voles
+SO BEHAVIOUR
+TC 16
+Z9 16
+SN 0005-7959
+EI 1568-539X
+PY 2010
+VL 147
+IS 7
+BP 871
+EP 881
+DI 10.1163/000579510X495780
+UT WOS:000279562600005
+ER
+
+PT J
+AU Boyko, RH
+   Marshall, AJ
+AF Boyko, Ryan H.
+   Marshall, Andrew J.
+TI The willing cuckold: optimal paternity allocation, infanticide and male
+   reproductive strategies in mammals
+SO ANIMAL BEHAVIOUR
+TC 20
+Z9 20
+SN 0003-3472
+EI 1095-8282
+PD JUN
+PY 2009
+VL 77
+IS 6
+BP 1397
+EP 1407
+DI 10.1016/j.anbehav.2009.01.036
+UT WOS:000266884200006
+ER
+
+PT J
+AU Schneider, JS
+   Burgess, C
+   Horton, TH
+   Levine, JE
+AF Schneider, Johanna S.
+   Burgess, Carly
+   Horton, Teresa H.
+   Levine, Jon E.
+TI Effects of progesterone on male-mediated infant-directed aggression
+SO BEHAVIOURAL BRAIN RESEARCH
+TC 5
+Z9 5
+SN 0166-4328
+EI 1872-7549
+PD MAY 16
+PY 2009
+VL 199
+IS 2
+BP 340
+EP 344
+DI 10.1016/j.bbr.2008.12.019
+UT WOS:000264953700023
+PM 19146882
+ER
+
+PT J
+AU Heyman, P
+   Van Mele, R
+   Smajlovic, L
+   Dobly, A
+   Cochez, C
+   Vandenvelde, C
+AF Heyman, Paul
+   Van Mele, Rita
+   Smajlovic, Lejla
+   Dobly, Alexandre
+   Cochez, Christel
+   Vandenvelde, Christian
+TI Association between Habitat and Prevalence of Hantavirus Infections in
+   Bank Voles (Myodes glareolus) and Wood Mice (Apodemus sylvaticus)
+SO VECTOR-BORNE AND ZOONOTIC DISEASES
+RI Smajlovic, Lejla/AAV-5124-2020
+OI Smajlovic, Lejla/0000-0003-2638-1713
+TC 15
+Z9 16
+SN 1530-3667
+EI 1557-7759
+PD APR
+PY 2009
+VL 9
+IS 2
+BP 141
+EP 146
+DI 10.1089/vbz.2007.0155
+UT WOS:000265416200002
+PM 19271997
+ER
+
+PT J
+AU Pillay, N
+   Kinahan, AA
+AF Pillay, Neville
+   Kinahan, Anouska A.
+TI Mating strategy predicts the occurrence of the Bruce effect in the vlei
+   rat Otomys irroratus
+SO BEHAVIOUR
+OI Pillay, Neville/0000-0002-0778-726X
+TC 12
+Z9 13
+SN 0005-7959
+EI 1568-539X
+PY 2009
+VL 146
+BP 139
+EP 151
+DI 10.1163/156853908X390968
+PN 1
+UT WOS:000262644800006
+ER
+
+PT J
+AU Heiming, RS
+   Jansen, F
+   Lewejohann, L
+   Kaiser, S
+   Schmitt, A
+   Lesch, KP
+   Sachser, N
+AF Heiming, Rebecca S.
+   Jansen, Friederike
+   Lewejohann, Lars
+   Kaiser, Sylvia
+   Schmitt, Angelika
+   Lesch, Klaus Peter
+   Sachser, Norbert
+TI Living in a dangerous world: the shaping of behavioral profile by early
+   environment and 5-HTT genotype
+SO FRONTIERS IN BEHAVIORAL NEUROSCIENCE
+RI Lesch, Klaus-Peter/J-4906-2013; Lewejohann, Lars/H-3717-2013
+OI Lesch, Klaus-Peter/0000-0001-8348-153X; Lewejohann,
+   Lars/0000-0002-0202-4351
+TC 51
+Z9 52
+SN 1662-5153
+PY 2009
+VL 3
+AR 26
+DI 10.3389/neuro.08.026.2009
+UT WOS:000208031500026
+PM 19826611
+ER
+
+PT J
+AU Steinmann, AR
+   Priotto, JW
+   Polop, JJ
+AF Steinmann, Andrea R.
+   Priotto, Jose W.
+   Polop, Jaime J.
+TI Territorial behaviour in corn mice, Calomys musculinus (Muridae:
+   Sigmodontinae), with regard to mating system
+SO JOURNAL OF ETHOLOGY
+RI Priotto, Jose/E-8346-2017
+OI Priotto, Jose/0000-0002-9641-7745
+TC 19
+Z9 24
+SN 0289-0771
+EI 1439-5444
+PD JAN
+PY 2009
+VL 27
+IS 1
+BP 51
+EP 58
+DI 10.1007/s10164-008-0083-2
+UT WOS:000262241100008
+ER
+
+PT J
+AU Tachikawa, K
+   Yoshida, S
+   Kuroda, K
+AF Tachikawa, Kashiko
+   Yoshida, Sachine
+   Kuroda, Kumi
+TI Parenting or infanticide: context-dependent behavioral choice and
+   region-specific neuronal activation in male mice
+SO NEUROSCIENCE RESEARCH
+TC 0
+Z9 0
+SN 0168-0102
+PY 2009
+VL 65
+SU 1
+BP S229
+EP S229
+DI 10.1016/j.neures.2009.09.1282
+UT WOS:000272421101646
+ER
+
+PT J
+AU Weber, EM
+   Olsson, IAS
+AF Weber, Elin M.
+   Olsson, I. Anna S.
+TI Maternal behaviour in Mus musculus sp.: An ethological review
+SO APPLIED ANIMAL BEHAVIOUR SCIENCE
+RI Olsson, Anna/C-1792-2008
+OI Olsson, Anna/0000-0002-4369-8723
+TC 64
+Z9 66
+SN 0168-1591
+EI 1872-9045
+PD NOV
+PY 2008
+VL 114
+IS 1-2
+BP 1
+EP 22
+DI 10.1016/j.applanim.2008.06.006
+UT WOS:000260127700001
+ER
+
+PT J
+AU Burn, CC
+   Mason, GJ
+AF Burn, Charlotte C.
+   Mason, Georgia J.
+TI Effects of cage-cleaning frequency on laboratory rat reproduction,
+   cannibalism, and welfare
+SO APPLIED ANIMAL BEHAVIOUR SCIENCE
+RI Burn, Charlotte/A-2843-2013
+OI Burn, Charlotte/0000-0002-8734-8610
+TC 31
+Z9 32
+SN 0168-1591
+EI 1872-9045
+PD NOV
+PY 2008
+VL 114
+IS 1-2
+BP 235
+EP 247
+DI 10.1016/j.applanim.2008.02.005
+UT WOS:000260127700020
+ER
+
+PT J
+AU Gryczynska-Siemiatkowska, A
+   Gortat, T
+   Kozakiewicz, A
+   Rutkowski, R
+   Pomorski, J
+   Kozakiewicz, M
+AF Gryczynska-Siemiatkowska, Alicja
+   Gortat, Tomasz
+   Kozakiewicz, Anna
+   Rutkowski, Robert
+   Pomorski, Jan
+   Kozakiewicz, Michal
+TI Multiple paternity in a wild population of the yellow-necked mouse
+   Apodemus flavicollis
+SO ACTA THERIOLOGICA
+OI Gortat, Tomasz/0000-0001-7296-5686; Rutkowski,
+   Robert/0000-0003-0265-7455
+TC 7
+Z9 8
+SN 0001-7051
+EI 2190-3743
+PD JUL
+PY 2008
+VL 53
+IS 3
+BP 251
+EP 258
+DI 10.1007/BF03193121
+UT WOS:000258354600005
+ER
+
+PT J
+AU Feh, C
+   Munkhtuya, B
+AF Feh, C.
+   Munkhtuya, B.
+TI Male infanticide and paternity analyses in a socially natural herd of
+   Przewalski's horses: Sexual selection?
+SO BEHAVIOURAL PROCESSES
+TC 18
+Z9 19
+SN 0376-6357
+PD JUL
+PY 2008
+VL 78
+IS 3
+BP 335
+EP 339
+DI 10.1016/j.beproc.2007.12.009
+UT WOS:000256787100002
+PM 18328636
+ER
+
+PT J
+AU Shieh, KR
+   Lee, HJ
+   Yang, SC
+AF Shieh, Kun-Ruey
+   Lee, Hsin-Jung
+   Yang, Shu-Chuan
+TI Different patterns of food consumption and locomotor activity among
+   Taiwanese native rodents, Formosan wood mice (Apodemus semotus), and
+   common laboratory mice, C57BL/6 (Mus musculus)
+SO CHINESE JOURNAL OF PHYSIOLOGY
+TC 4
+Z9 4
+SN 0304-4920
+EI 2666-0059
+PD JUN 30
+PY 2008
+VL 51
+IS 3
+BP 129
+EP 135
+UT WOS:000256944600002
+PM 18935907
+ER
+
+PT J
+AU Kuroda, KO
+   Meaney, MJ
+   Uetani, N
+   Kato, T
+AF Kuroda, Kumi O.
+   Meaney, Michael J.
+   Uetani, Noriko
+   Kato, Tadafumi
+TI Neurobehavioral basis of the impaired nurturing in mice lacking the
+   immediate early gene FosB
+SO BRAIN RESEARCH
+RI Meaney, Michael/N-5931-2019; Kato, Tadafumi/J-3583-2014; Kuroda, Kumi
+   O/A-3312-2013
+OI Kato, Tadafumi/0000-0001-7856-3952; 
+TC 19
+Z9 19
+SN 0006-8993
+EI 1872-6240
+PD MAY 23
+PY 2008
+VL 1211
+BP 57
+EP 71
+DI 10.1016/j.brainres.2008.02.100
+UT WOS:000256785200008
+PM 18423429
+ER
+
+PT J
+AU Perez-Laso, C
+   Segovia, S
+   Martin, JLR
+   Ortega, E
+   Gomez, F
+   Del Cerro, MCR
+AF Perez-Laso, Carmen
+   Segovia, Santiago
+   Martin, Jose Luis R.
+   Ortega, Esperanza
+   Gomez, Francisco
+   Del Cerro, M. Cruz R.
+TI Environmental prenatal stress alters sexual dimorphism of maternal
+   behavior in rats
+SO BEHAVIOURAL BRAIN RESEARCH
+TC 14
+Z9 15
+SN 0166-4328
+EI 1872-7549
+PD MAR 5
+PY 2008
+VL 187
+IS 2
+BP 284
+EP 288
+DI 10.1016/j.bbr.2007.09.029
+UT WOS:000252915200009
+PM 17980921
+ER
+
+PT J
+AU Poikonen, T
+   Koskela, E
+   Mappes, T
+   Mills, SC
+AF Poikonen, Tanja
+   Koskela, Esa
+   Mappes, Tapio
+   Mills, Suzanne C.
+TI Infanticide in the evolution of reproductive synchrony: Effects on
+   reproductive success
+SO EVOLUTION
+RI Mills, Suzanne/K-5538-2012; Mappes, Tapio/B-9780-2013
+OI Mills, Suzanne/0000-0001-8948-3384; Mappes, Tapio/0000-0002-5936-7355;
+   Koskela, Esa/0000-0002-9418-5733
+TC 27
+Z9 27
+SN 0014-3820
+EI 1558-5646
+PD MAR
+PY 2008
+VL 62
+IS 3
+BP 612
+EP 621
+DI 10.1111/j.1558-5646.2007.00293.x
+UT WOS:000253758600010
+PM 17983462
+ER
+
+PT J
+AU Schradin, C
+AF Schradin, Carsten
+TI Comments to K.E. Wynne-Edwards and M.E. Timonin 2007. Paternal care in
+   rodents: Weakening support of hormonal regulation of the transition to
+   behavioral fatherhood in rodent animal models of biparental care, Horm &
+   Behav 52 : 114-121
+SO HORMONES AND BEHAVIOR
+RI Schradin, Carsten/A-1534-2013
+OI Schradin, Carsten/0000-0002-2706-2960
+TC 17
+Z9 17
+SN 0018-506X
+PD DEC
+PY 2007
+VL 52
+IS 5
+BP 557
+EP 559
+DI 10.1016/j.yhbeh.2007.08.008
+UT WOS:000252035800001
+PM 17904140
+ER
+
+PT J
+AU Wolff, JO
+AF Wolff, Jerry O.
+TI Social biology of rodents
+SO INTEGRATIVE ZOOLOGY
+TC 22
+Z9 23
+SN 1749-4877
+EI 1749-4869
+PD DEC
+PY 2007
+VL 2
+IS 4
+BP 193
+EP 204
+DI 10.1111/j.1749-4877.2007.00062.x
+UT WOS:000208683100002
+PM 21396036
+ER
+
+PT J
+AU Lee, A
+AF Lee, A.
+TI The Light : Dark cycle may influence infanticide rate in a breeding
+   colony of C57B1/6 mice
+SO JOURNAL OF THE AMERICAN ASSOCIATION FOR LABORATORY ANIMAL SCIENCE
+TC 0
+Z9 0
+SN 1559-6109
+PD JUL
+PY 2007
+VL 46
+IS 4
+BP 124
+EP 125
+UT WOS:000248522000148
+ER
+
+PT J
+AU Wynne-Edwards, KE
+   Timonin, ME
+AF Wynne-Edwards, Katherine E.
+   Timonin, Mary E.
+TI Paternal care in rodents: Weakening support for hormonal regulation of
+   the transition to behavioral fatherhood in rodent animal models of
+   biparental care
+SO HORMONES AND BEHAVIOR
+RI Wynne-Edwards, Katherine/P-2326-2019; Wynne-Edwards,
+   Katherine/D-9036-2012
+OI Wynne-Edwards, Katherine/0000-0002-2944-4516
+TC 114
+Z9 118
+SN 0018-506X
+EI 1095-6867
+PD JUN
+PY 2007
+VL 52
+IS 1
+BP 114
+EP 121
+DI 10.1016/j.yhbeh.2007.03.018
+UT WOS:000247535000017
+PM 17482188
+ER
+
+PT J
+AU Hayes, UL
+   De Vries, GJ
+AF Hayes, UnJa L.
+   De Vries, Geert J.
+TI Role of pregnancy and parturition in induction of maternal behavior in
+   prairie voles (Microtus ochrogaster)
+SO HORMONES AND BEHAVIOR
+OI de Vries, Geert/0000-0002-1263-3775
+TC 25
+Z9 25
+SN 0018-506X
+EI 1095-6867
+PD FEB
+PY 2007
+VL 51
+IS 2
+BP 265
+EP 272
+DI 10.1016/j.yhbeh.2006.10.011
+UT WOS:000243984200012
+PM 17174957
+ER
+
+PT J
+AU Weber, EM
+   Olsson, AS
+   Algers, B
+AF Weber, Elin M.
+   Olsson, Anna S.
+   Algers, Bo
+TI High mortality rates among newborn laboratory mice - is it natural and
+   which are the causes?
+SO ACTA VETERINARIA SCANDINAVICA
+CT 20th Symposium of the
+   Nordic-Committee-for-Veterinary-Scientific-Cooperation
+CY APR 26-27, 2007
+CL Reykjavik, ICELAND
+RI Olsson, Anna/C-1792-2008
+OI Olsson, Anna/0000-0002-4369-8723; Algers, Bo/0000-0002-5647-4892
+TC 4
+Z9 4
+SN 0044-605X
+PY 2007
+VL 49
+SU 1
+AR S8
+DI 10.1186/1751-0147-49-S1-S8
+UT WOS:000254063200009
+ER
+
+PT J
+AU Millar, JS
+AF Millar, John S.
+TI Nest mortality in small mammals
+SO ECOSCIENCE
+CT Symposium on Marsupials as Models for Research held at the 9th
+   International Mammalogical Congress
+CY AUG, 2005
+CL Sapporo, JAPAN
+TC 18
+Z9 18
+SN 1195-6860
+PY 2007
+VL 14
+IS 3
+BP 286
+EP 291
+DI 10.2980/1195-6860(2007)14[286:NMISM]2.0.CO;2
+UT WOS:000250040400003
+ER
+
+PT J
+AU Rulicke, T
+   Guncz, N
+   Wedekind, C
+AF Rulicke, T
+   Guncz, N
+   Wedekind, C
+TI Early maternal investment in mice: no evidence for compatible-genes
+   sexual selection despite hybrid vigor
+SO JOURNAL OF EVOLUTIONARY BIOLOGY
+RI Wedekind, Claus/S-3353-2016
+OI Wedekind, Claus/0000-0001-6143-4716
+TC 14
+Z9 14
+SN 1010-061X
+EI 1420-9101
+PD MAY
+PY 2006
+VL 19
+IS 3
+BP 922
+EP 928
+DI 10.1111/j.1420-9101.2005.01039.x
+UT WOS:000236943000025
+PM 16674588
+ER
+
+PT J
+AU Weil, ZM
+   Bowers, SL
+   Dow, ER
+   Nelson, RJ
+AF Weil, ZM
+   Bowers, SL
+   Dow, ER
+   Nelson, RJ
+TI Maternal aggression persists following lipopolysaccharide-induced
+   activation of the immune system
+SO PHYSIOLOGY & BEHAVIOR
+RI Weil, Zachary M/A-2439-2008; Weil, Zachary M/B-5003-2008
+OI Weil, Zachary M/0000-0003-3758-1809; Weil, Zachary
+   M/0000-0003-3758-1809; Nelson, Randy/0000-0002-8194-4016
+TC 19
+Z9 19
+SN 0031-9384
+PD APR 15
+PY 2006
+VL 87
+IS 4
+BP 694
+EP 699
+DI 10.1016/j.physbeh.2006.01.005
+UT WOS:000236991600007
+PM 16490223
+ER
+
+PT J
+AU Pedersen, CA
+   Vadlamudi, SV
+   Boccia, ML
+   Amico, JA
+AF Pedersen, CA
+   Vadlamudi, SV
+   Boccia, ML
+   Amico, JA
+TI Maternal behavior deficits in nulliparous oxytocin knockout mice
+SO GENES BRAIN AND BEHAVIOR
+OI Boccia, Maria/0000-0003-4395-2573
+TC 116
+Z9 116
+SN 1601-1848
+EI 1601-183X
+PD APR
+PY 2006
+VL 5
+IS 3
+BP 274
+EP 281
+DI 10.1111/j.1601-183X.2005.00162.x
+UT WOS:000236460900006
+PM 16594980
+ER
+
+PT J
+AU Saltzman, W
+   Ahmed, S
+   Fahimi, A
+   Wittwer, DJ
+   Wegner, FH
+AF Saltzman, W
+   Ahmed, S
+   Fahimi, A
+   Wittwer, DJ
+   Wegner, FH
+TI Social suppression of female reproductive maturation and infanticidal
+   behavior in cooperatively breeding Mongolian gerbils
+SO HORMONES AND BEHAVIOR
+TC 20
+Z9 21
+SN 0018-506X
+PD APR
+PY 2006
+VL 49
+IS 4
+BP 527
+EP 537
+DI 10.1016/j.yhbeh.2005.11.004
+UT WOS:000236480700014
+PM 16378607
+ER
+
+PT J
+AU Matheus, WE
+   Leitao, VA
+   Thiel, M
+   Palma, PCR
+   Fernandes, RC
+   Netto, NR
+AF Matheus, WE
+   Leitao, VA
+   Thiel, M
+   Palma, PCR
+   Fernandes, RC
+   Netto, NR
+TI Videolaparoscopic orchiectomy and nephrectomy: Training model in rats
+SO UROLOGIA INTERNATIONALIS
+RI leitao, victor a/S-3841-2017
+OI leitao, victor a/0000-0001-7698-7997
+TC 0
+Z9 0
+SN 0042-1138
+EI 1423-0399
+PY 2006
+VL 76
+IS 2
+BP 126
+EP 129
+DI 10.1159/000090874
+UT WOS:000235581900006
+PM 16493212
+ER
+
+PT J
+AU Olazabal, DE
+   Young, LJ
+AF Olazabal, DE
+   Young, LJ
+TI Variability in "spontaneous" maternal behavior is associated with
+   anxiety-like behavior and affiliation in naive juvenile and adult female
+   prairie voles (Microtus ochrogaster)
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+TC 39
+Z9 40
+SN 0012-1630
+EI 1098-2302
+PD SEP
+PY 2005
+VL 47
+IS 2
+BP 166
+EP 178
+DI 10.1002/dev.20077
+UT WOS:000231625600008
+PM 16136562
+ER
+
+PT J
+AU Friske, JE
+   Gammie, SC
+AF Friske, JE
+   Gammie, SC
+TI Environmental enrichment alters plus maze, but not maternal defense
+   performance in mice
+SO PHYSIOLOGY & BEHAVIOR
+TC 66
+Z9 70
+SN 0031-9384
+PD JUN 2
+PY 2005
+VL 85
+IS 2
+BP 187
+EP 194
+DI 10.1016/j.physbeh.2005.03.022
+UT WOS:000229805900013
+PM 15894343
+ER
+
+PT J
+AU Palanza, P
+   Della Seta, D
+   Ferrari, PF
+   Parmigiani, S
+AF Palanza, P
+   Della Seta, D
+   Ferrari, PF
+   Parmigiani, S
+TI Female competition in wild house mice depends upon timing of female/male
+   settlement and kinship between females
+SO ANIMAL BEHAVIOUR
+RI Ferrari, Pier Francesco/G-5547-2017
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 31
+Z9 31
+SN 0003-3472
+EI 1095-8282
+PD JUN
+PY 2005
+VL 69
+BP 1259
+EP 1271
+DI 10.1016/j.anbehav.2004.09.014
+PN 6
+UT WOS:000230036400005
+ER
+
+PT J
+AU Yu, XD
+   Sun, RY
+   Fang, JM
+AF Yu, XD
+   Sun, RY
+   Fang, JM
+TI Effect of kinship on parental care and infanticide in Brandt's voles
+   (Microtus brandti)
+SO BIOLOGIA
+TC 1
+Z9 1
+SN 0006-3088
+EI 1336-9563
+PD MAR
+PY 2005
+VL 60
+IS 2
+BP 221
+EP 226
+UT WOS:000229627400026
+ER
+
+PT J
+AU Gammie, SC
+   Nelson, RJ
+AF Gammie, SC
+   Nelson, RJ
+TI High maternal aggression in dwarf hamsters (Phodopus campbelli and
+   P-sungorus)
+SO AGGRESSIVE BEHAVIOR
+OI Nelson, Randy/0000-0002-8194-4016
+TC 4
+Z9 4
+SN 0096-140X
+PY 2005
+VL 31
+IS 3
+BP 294
+EP 302
+DI 10.1002/ab.20087
+UT WOS:000227894100008
+ER
+
+PT J
+AU Vella, ET
+   Evans, CCD
+   Ng, MWS
+   Wynne-Edwards, KE
+AF Vella, ET
+   Evans, CCD
+   Ng, MWS
+   Wynne-Edwards, KE
+TI Ontogeny of the transition from killer to caregiver in dwarf hamsters
+   (Phodopus campbelli) with biparental care
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+RI Wynne-Edwards, Katherine/P-2326-2019; Wynne-Edwards,
+   Katherine/D-9036-2012
+OI Wynne-Edwards, Katherine/0000-0002-2944-4516
+TC 27
+Z9 28
+SN 0012-1630
+EI 1098-2302
+PY 2005
+VL 46
+IS 2
+BP 75
+EP 85
+DI 10.1002/dev.20047
+UT WOS:000227714500001
+PM 15732058
+ER
+
+PT B
+AU White, TCR
+AF White, TCR
+TI Why Does the World Stay Green: Nutrition and Survival of Plant-Eaters
+SO WHY DOES THE WORLD STAY GREEN: NUTRITION AND SURVIVAL OF PLANT-EATERS
+TC 30
+Z9 30
+BN 978-0-643-09315-7
+PY 2005
+BP 1
+EP 120
+UT WOS:000291683800011
+ER
+
+PT J
+AU Millar, JS
+   Havelka, MA
+   Sharma, S
+AF Millar, JS
+   Havelka, MA
+   Sharma, S
+TI Nest mortality in a population of small mammals
+SO ACTA THERIOLOGICA
+OI Sharma, Sapna/0000-0003-4571-2768
+TC 12
+Z9 12
+SN 0001-7051
+PD JUN
+PY 2004
+VL 49
+IS 2
+BP 269
+EP 273
+UT WOS:000222559900011
+ER
+
+PT J
+AU Mucignat-Caretta, C
+   Cavaggioni, A
+   Caretta, A
+AF Mucignat-Caretta, C
+   Cavaggioni, A
+   Caretta, A
+TI Male urinary chemosignals differentially affect aggressive behavior in
+   male mice
+SO JOURNAL OF CHEMICAL ECOLOGY
+RI Mucignat, Carla/N-6299-2017; Caretta, Antonio/L-5851-2017
+OI Mucignat, Carla/0000-0001-5307-0414; Caretta,
+   Antonio/0000-0002-4062-493X
+TC 15
+Z9 15
+SN 0098-0331
+EI 1573-1561
+PD APR
+PY 2004
+VL 30
+IS 4
+BP 777
+EP 791
+DI 10.1023/B:JOEC.0000028431.29484.d7
+UT WOS:000221530700007
+PM 15260223
+ER
+
+PT J
+AU Rolland, C
+   MacDonald, DW
+   De Fraipont, M
+   Berdoy, M
+AF Rolland, C
+   MacDonald, DW
+   De Fraipont, M
+   Berdoy, M
+TI Free female choice in house mice: Leaving best for last
+SO BEHAVIOUR
+TC 47
+Z9 49
+SN 0005-7959
+EI 1568-539X
+PD NOV-DEC
+PY 2003
+VL 140
+BP 1371
+EP 1388
+DI 10.1163/156853903771980639
+PN 11-12
+UT WOS:000188354400002
+ER
+
+PT J
+AU Matsumoto, T
+   Honda, S
+   Harada, N
+AF Matsumoto, T
+   Honda, S
+   Harada, N
+TI Alteration in sex-specific behaviors in male mice lacking the aromatase
+   gene
+SO NEUROENDOCRINOLOGY
+TC 79
+Z9 80
+SN 0028-3835
+PD JUN
+PY 2003
+VL 77
+IS 6
+BP 416
+EP 424
+DI 10.1159/000071313
+UT WOS:000184267200007
+PM 12845227
+ER
+
+PT J
+AU Wiedenmayer, CP
+   Lyo, D
+   Barr, GA
+AF Wiedenmayer, CP
+   Lyo, D
+   Barr, GA
+TI Rat pups reduce ultrasonic vocalization after exposure to an adult male
+   rat
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+RI Barr, Gordon/N-1288-2013
+OI Barr, Gordon/0000-0003-4751-9937
+TC 10
+Z9 11
+SN 0012-1630
+EI 1098-2302
+PD MAY
+PY 2003
+VL 42
+IS 4
+BP 386
+EP 391
+DI 10.1002/dev.10112
+UT WOS:000182382500009
+PM 12672089
+ER
+
+PT J
+AU Lonstein, JS
+   Gammie, SC
+AF Lonstein, JS
+   Gammie, SC
+TI Sensory, hormonal, and neural control of maternal aggression in
+   laboratory rodents
+SO NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+TC 181
+Z9 186
+SN 0149-7634
+EI 1873-7528
+PD DEC
+PY 2002
+VL 26
+IS 8
+BP 869
+EP 888
+AR PII S0149-7634(02)00087-8
+DI 10.1016/S0149-7634(02)00087-8
+UT WOS:000182201500001
+PM 12667494
+ER
+
+PT J
+AU Hodges, KE
+   Mech, S
+   Wolff, JO
+AF Hodges, KE
+   Mech, S
+   Wolff, JO
+TI Sex and the single vole: Effects of social grouping on prairie vole
+   reproductive success
+SO ETHOLOGY
+RI Hodges, Karen E/K-5598-2012; Mech, Stephen G/A-2929-2008
+TC 9
+Z9 10
+SN 0179-1613
+PD OCT
+PY 2002
+VL 108
+IS 10
+BP 871
+EP 884
+DI 10.1046/j.1439-0310.2002.00822.x
+UT WOS:000178274600003
+ER
+
+PT J
+AU Mahady, SJ
+   Wolff, JO
+AF Mahady, SJ
+   Wolff, JO
+TI A field test of the Bruce effect in the monogamous prairie vole
+   (Microtus ochrogaster)
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+TC 42
+Z9 46
+SN 0340-5443
+EI 1432-0762
+PD JUN
+PY 2002
+VL 52
+IS 1
+BP 31
+EP 37
+DI 10.1007/s00265-002-0484-0
+UT WOS:000176776900005
+ER
+
+PT J
+AU Pflanz, T
+AF Pflanz, T
+TI Age and brood defence in male CRL : NMRI BR laboratory mice, Mus
+   musculus domesticus
+SO ANIMAL BEHAVIOUR
+TC 2
+Z9 2
+SN 0003-3472
+PD MAR
+PY 2002
+VL 63
+BP 613
+EP 616
+DI 10.1006/anbe.2001.1930
+PN 3
+UT WOS:000175391400023
+ER
+
+PT J
+AU Reisert, I
+   Karolczak, M
+   Beyer, C
+   Just, W
+   Maxson, SC
+   Ehret, G
+AF Reisert, I
+   Karolczak, M
+   Beyer, C
+   Just, W
+   Maxson, SC
+   Ehret, G
+TI Sry does not fully sex-reverse female into male behavior towards pups
+SO BEHAVIOR GENETICS
+TC 14
+Z9 14
+SN 0001-8244
+EI 1573-3297
+PD MAR
+PY 2002
+VL 32
+IS 2
+BP 103
+EP 111
+AR UNSP 001-8244/02/0300-0103/0
+DI 10.1023/A:1015297622509
+UT WOS:000175458100003
+PM 12036107
+ER
+
+PT J
+AU Lonstein, JS
+   Rood, BD
+   De Vries, GJ
+AF Lonstein, JS
+   Rood, BD
+   De Vries, GJ
+TI Parental responsiveness is feminized after neonatal castration in virgin
+   male prairie voles, but is not masculinized by perinatal testosterone in
+   virgin females
+SO HORMONES AND BEHAVIOR
+OI de Vries, Geert/0000-0002-1263-3775
+TC 42
+Z9 43
+SN 0018-506X
+PD FEB
+PY 2002
+VL 41
+IS 1
+BP 80
+EP 87
+DI 10.1006/hbeh.2001.1740
+UT WOS:000173530400009
+PM 11863386
+ER
+
+PT J
+AU Parker, KJ
+   Lee, TM
+AF Parker, KJ
+   Lee, TM
+TI Social and environmental factors influence the suppression of
+   pup-directed aggression and development of paternal behavior in captive
+   meadow voles (Microtus pennsylvanicus)
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+RI Parker, Karen/G-1347-2012
+OI Parker, Karen/0000-0002-6836-6338; Lee, Theresa/0000-0002-9508-6382
+TC 14
+Z9 15
+SN 0735-7036
+EI 1939-2087
+PD DEC
+PY 2001
+VL 115
+IS 4
+BP 331
+EP 336
+DI 10.1037//0735-7036.115.4.331
+UT WOS:000173402200001
+PM 11824895
+ER
+
+PT J
+AU Yasuda, H
+   Kimura, T
+AF Yasuda, H
+   Kimura, T
+TI Interspecific interactions in a tri-trophic arthropod system: effects of
+   a spider on the survival of larvae of three predatory ladybirds in
+   relation to aphids
+SO ENTOMOLOGIA EXPERIMENTALIS ET APPLICATA
+TC 22
+Z9 27
+SN 0013-8703
+PD JAN
+PY 2001
+VL 98
+IS 1
+BP 17
+EP 25
+DI 10.1046/j.1570-7458.2001.00752.x
+UT WOS:000167739900003
+ER
+
+PT J
+AU Dobson, FS
+   Jacquot, C
+   Baudoin, C
+AF Dobson, FS
+   Jacquot, C
+   Baudoin, C
+TI An experimental test of kin association in the house mouse
+SO CANADIAN JOURNAL OF ZOOLOGY-REVUE CANADIENNE DE ZOOLOGIE
+RI Dobson, F. Stephen/R-7310-2019
+OI /0000-0001-6863-4569
+TC 33
+Z9 33
+SN 0008-4301
+PD OCT
+PY 2000
+VL 78
+IS 10
+BP 1806
+EP 1812
+DI 10.1139/cjz-78-10-1806
+UT WOS:000089523900014
+ER
+
+PT J
+AU Lonstein, JS
+   De Vries, GJ
+AF Lonstein, JS
+   De Vries, GJ
+TI Influence of gonadal hormones on the development of parental behavior in
+   adult virgin prairie voles (Microtus ochrogaster)
+SO BEHAVIOURAL BRAIN RESEARCH
+OI de Vries, Geert/0000-0002-1263-3775
+TC 43
+Z9 44
+SN 0166-4328
+EI 1872-7549
+PD SEP
+PY 2000
+VL 114
+IS 1-2
+BP 79
+EP 87
+DI 10.1016/S0166-4328(00)00192-3
+UT WOS:000089176400010
+PM 10996049
+ER
+
+PT J
+AU Lonstein, JS
+   De Vries, GJ
+AF Lonstein, JS
+   De Vries, GJ
+TI Sex differences in the parental behavior of rodents
+SO NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+OI de Vries, Geert/0000-0002-1263-3775
+TC 145
+Z9 148
+SN 0149-7634
+EI 1873-7528
+PD AUG
+PY 2000
+VL 24
+IS 6
+BP 669
+EP 686
+DI 10.1016/S0149-7634(00)00036-1
+UT WOS:000088956400006
+PM 10940441
+ER
+
+PT J
+AU Ebensperger, LA
+   Botto-Mahan, C
+   Tamarin, RH
+AF Ebensperger, LA
+   Botto-Mahan, C
+   Tamarin, RH
+TI Nonparental infanticide in meadow voles, Microtus pennsylvanicus: the
+   influence of nutritional benefits
+SO ETHOLOGY ECOLOGY & EVOLUTION
+OI Botto, Carezza/0000-0002-2726-2188
+TC 9
+Z9 10
+SN 0394-9370
+PD JUN
+PY 2000
+VL 12
+IS 2
+BP 149
+EP 160
+UT WOS:000087893600004
+ER
+
+PT J
+AU Wright, SL
+   Brown, RE
+AF Wright, SL
+   Brown, RE
+TI Maternal behavior, paternal behavior, and pup survival in CD-1 albino
+   mice (Mus musculus) in three different housing conditions
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+TC 27
+Z9 27
+SN 0735-7036
+PD JUN
+PY 2000
+VL 114
+IS 2
+BP 183
+EP 192
+DI 10.1037/0735-7036.114.2.183
+UT WOS:000087775900008
+PM 10890590
+ER
+
+PT J
+AU Clark, MM
+   Galef, BG
+AF Clark, MM
+   Galef, BG
+TI Effects of experience on the parental responses of male Mongolian
+   gerbils
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+TC 16
+Z9 16
+SN 0012-1630
+EI 1098-2302
+PD APR
+PY 2000
+VL 36
+IS 3
+BP 177
+EP 185
+DI 10.1002/(SICI)1098-2302(200004)36:3<177::AID-DEV1>3.0.CO;2-W
+UT WOS:000086172100001
+PM 10737863
+ER
+
+PT J
+AU Ferrari, PF
+   Palanza, P
+   Parmigiani, S
+AF Ferrari, PF
+   Palanza, P
+   Parmigiani, S
+TI Does fear modulate defensive and offensive types of maternal attack in
+   mice?
+SO AGGRESSIVE BEHAVIOR
+RI Ferrari, Pier Francesco/G-5547-2017
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 5
+Z9 5
+SN 0096-140X
+PY 2000
+VL 26
+IS 2
+BP 193
+EP 203
+DI 10.1002/(SICI)1098-2337(2000)26:2<193::AID-AB5>3.0.CO;2-1
+UT WOS:000085634600005
+ER
+
+PT J
+AU Nogueira, SSD
+   Nogueira, SLG
+   Otta, E
+   Dias, CTD
+   de Carvalho, A
+AF Nogueira, SSD
+   Nogueira, SLG
+   Otta, E
+   Dias, CTD
+   de Carvalho, A
+TI Determination of the causes of infanticide in capybara (Hydrochaeris
+   hydrochaeris) groups in captivity
+SO APPLIED ANIMAL BEHAVIOUR SCIENCE
+RI Nogueira, Selene/I-1843-2013; Nogueira, Selene/W-5237-2019;
+   Nogueira-Filho, Sergio L.G./F-6264-2014; Dias, Carlos/G-5817-2015
+OI Nogueira, Selene/0000-0001-8078-4172; Nogueira,
+   Selene/0000-0001-8078-4172; Nogueira-Filho, Sergio/0000-0001-5392-0773;
+   Dias, Carlos/0000-0003-1015-1761
+TC 15
+Z9 16
+SN 0168-1591
+PD FEB 26
+PY 1999
+VL 62
+IS 4
+BP 351
+EP 357
+DI 10.1016/S0168-1591(98)00231-7
+UT WOS:000078491800006
+ER
+
+PT J
+AU de la Maza, HM
+   Wolff, JO
+   Lindsey, A
+AF de la Maza, HM
+   Wolff, JO
+   Lindsey, A
+TI Exposure to strange adults does not cause pregnancy disruption or
+   infanticide in the gray-tailed vole
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+RI Hizukuri, Tatiana/H-6593-2016
+TC 19
+Z9 21
+SN 0340-5443
+PD FEB
+PY 1999
+VL 45
+IS 2
+BP 107
+EP 113
+DI 10.1007/s002650050544
+UT WOS:000078988800004
+ER
+
+PT J
+AU Kunz, TH
+   Ebensperger, LA
+AF Kunz, Thomas H.
+   Ebensperger, Luis A.
+TI Why does non-parental infanticide seem so rare in bats?
+SO ACTA CHIROPTEROLOGICA
+TC 6
+Z9 6
+SN 1508-1109
+EI 1733-5329
+PY 1999
+VL 1
+IS 1
+BP 17
+EP 29
+UT WOS:000207043200002
+ER
+
+PT J
+AU Brunelli, SA
+   Masmela, JR
+   Shair, HN
+   Hofer, MA
+AF Brunelli, SA
+   Masmela, JR
+   Shair, HN
+   Hofer, MA
+TI Effects of biparental rearing on ultrasonic vocalization (USV) responses
+   of rat pups (Rattus norvegicus)
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+TC 33
+Z9 34
+SN 0735-7036
+PD DEC
+PY 1998
+VL 112
+IS 4
+BP 331
+EP 343
+DI 10.1037/0735-7036.112.4.331
+UT WOS:000077469400001
+PM 9861709
+ER
+
+PT J
+AU Parmigiani, S
+   Ferrari, PF
+   Palanza, P
+AF Parmigiani, S
+   Ferrari, PF
+   Palanza, P
+TI An evolutionary approach to behavioral pharmacology: using drugs to
+   understand proximate and ultimate mechanisms of different forms of
+   aggression in mice
+SO NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+CT 2nd Ethopharmacology Conference
+CY SEP 26-28, 1997
+CL SOPRON, HUNGARY
+RI Ferrari, Pier Francesco/G-5547-2017
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 72
+Z9 72
+SN 0149-7634
+PD DEC
+PY 1998
+VL 23
+IS 2
+BP 143
+EP 153
+DI 10.1016/S0149-7634(98)00016-5
+UT WOS:000077884400002
+PM 9884108
+ER
+
+PT J
+AU Ebensperger, LA
+AF Ebensperger, LA
+TI Strategies and counterstrategies to infanticide in mammals
+SO BIOLOGICAL REVIEWS
+TC 203
+Z9 207
+SN 1464-7931
+EI 1469-185X
+PD AUG
+PY 1998
+VL 73
+IS 3
+BP 321
+EP 346
+DI 10.1017/S0006323198005209
+UT WOS:000076759200005
+ER
+
+PT J
+AU Stevens, SD
+AF Stevens, SD
+TI High incidence of infanticide by lactating females in a population of
+   Columbian ground squirrels (Spermophilus columbianus)
+SO CANADIAN JOURNAL OF ZOOLOGY
+TC 17
+Z9 17
+SN 0008-4301
+EI 1480-3283
+PD JUN
+PY 1998
+VL 76
+IS 6
+BP 1183
+EP 1187
+DI 10.1139/cjz-76-6-1183
+UT WOS:000077327300021
+ER
+
+PT J
+AU Ebensperger, LA
+AF Ebensperger, LA
+TI Do female rodents use promiscuity to prevent male infanticide?
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 8
+Z9 8
+SN 0394-9370
+EI 1828-7131
+PD JUN
+PY 1998
+VL 10
+IS 2
+BP 129
+EP 141
+DI 10.1080/08927014.1998.9522862
+UT WOS:000076747400003
+ER
+
+PT J
+AU Coopersmith, CB
+   Lenington, S
+AF Coopersmith, CB
+   Lenington, S
+TI Pregnancy block in house mice (Mus domesticus) as a function of
+   t-complex genotype: Examination of the mate choice and male infanticide
+   hypotheses
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+TC 8
+Z9 8
+SN 0735-7036
+EI 1939-2087
+PD MAR
+PY 1998
+VL 112
+IS 1
+BP 82
+EP 91
+UT WOS:000072487600009
+PM 9528117
+ER
+
+PT J
+AU Fortier, GM
+   Tamarin, RH
+AF Fortier, GM
+   Tamarin, RH
+TI Movement of meadow voles in response to food and density manipulations:
+   A test of the food-defense and pup-defense hypotheses
+SO JOURNAL OF MAMMALOGY
+TC 30
+Z9 31
+SN 0022-2372
+PD FEB
+PY 1998
+VL 79
+IS 1
+BP 337
+EP 345
+DI 10.2307/1382870
+UT WOS:000072193900033
+ER
+
+PT J
+AU Ebensperger, LA
+AF Ebensperger, LA
+TI The potential effects of protected nests and cage complexity on maternal
+   aggression in house mice
+SO AGGRESSIVE BEHAVIOR
+TC 7
+Z9 7
+SN 0096-140X
+EI 1098-2337
+PY 1998
+VL 24
+IS 5
+BP 385
+EP 396
+DI 10.1002/(SICI)1098-2337(1998)24:5<385::AID-AB5>3.0.CO;2-G
+UT WOS:000076085600005
+ER
+
+PT J
+AU Mandillo, S
+   DAmato, FR
+AF Mandillo, S
+   DAmato, FR
+TI Effect of strange male odour on parental care in lactating female mice
+SO ANIMAL BEHAVIOUR
+RI Mandillo, Silvia/E-6503-2019; Mandillo, Silvia/AAW-1363-2020
+OI Mandillo, Silvia/0000-0002-4869-0974; D'Amato,
+   Francesca/0000-0002-4577-4574
+TC 12
+Z9 12
+SN 0003-3472
+EI 1095-8282
+PD OCT
+PY 1997
+VL 54
+BP 901
+EP 910
+DI 10.1006/anbe.1997.0508
+PN 4
+UT WOS:A1997YE30600014
+PM 9344443
+ER
+
+PT J
+AU Margulis, SW
+AF Margulis, SW
+TI Inbreeding-based bias in parental responsiveness to litters of oldfield
+   mice
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+TC 9
+Z9 9
+SN 0340-5443
+PD SEP
+PY 1997
+VL 41
+IS 3
+BP 177
+EP 184
+DI 10.1007/s002650050377
+UT WOS:A1997XY71100005
+ER
+
+PT J
+AU Montgomery, WI
+   Wilson, WL
+   Elwood, RW
+AF Montgomery, WI
+   Wilson, WL
+   Elwood, RW
+TI Spatial regulation and population growth in the wood mouse Apodemus
+   sylvaticus: experimental manipulations of males and females in natural
+   populations
+SO JOURNAL OF ANIMAL ECOLOGY
+TC 25
+Z9 25
+SN 0021-8790
+PD SEP
+PY 1997
+VL 66
+IS 5
+BP 755
+EP 768
+DI 10.2307/5926
+UT WOS:A1997XV48400013
+ER
+
+PT J
+AU Tuomi, J
+   Agrell, J
+   Mappes, T
+AF Tuomi, J
+   Agrell, J
+   Mappes, T
+TI On the evolutionary stability of female infanticide
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+RI Mappes, Tapio/B-9780-2013
+TC 24
+Z9 27
+SN 0340-5443
+PD APR
+PY 1997
+VL 40
+IS 4
+BP 227
+EP 233
+DI 10.1007/s002650050337
+UT WOS:A1997XF04100003
+ER
+
+PT J
+AU Ylonen, H
+   Koskela, E
+   Mappes, T
+AF Ylonen, H
+   Koskela, E
+   Mappes, T
+TI Infanticide in the bank vole (Clethrionomys glareolus): Occurrence and
+   the effect of familiarity on female infanticide
+SO ANNALES ZOOLOGICI FENNICI
+RI Mappes, Tapio/B-9780-2013
+TC 42
+Z9 44
+SN 0003-455X
+PY 1997
+VL 34
+IS 4
+BP 259
+EP 266
+UT WOS:000071552700007
+ER
+
+PT J
+AU Wolff, JO
+AF Wolff, JO
+TI Population regulation in mammals: An evolutionary perspective
+SO JOURNAL OF ANIMAL ECOLOGY
+TC 166
+Z9 177
+SN 0021-8790
+PD JAN
+PY 1997
+VL 66
+IS 1
+BP 1
+EP 13
+DI 10.2307/5959
+UT WOS:A1997WG60000001
+ER
+
+PT J
+AU Coopersmith, CB
+   Lenington, S
+AF Coopersmith, CB
+   Lenington, S
+TI The relationship between pregnancy block and infanticide in house mice
+   (Mus musculus domesticus) during lactational pregnancy
+SO BEHAVIOUR
+TC 11
+Z9 11
+SN 0005-7959
+EI 1568-539X
+PD NOV
+PY 1996
+VL 133
+BP 1023
+EP 1050
+DI 10.1163/156853996X00585
+PN 13-14
+UT WOS:A1996WF81300004
+ER
+
+PT J
+AU Ferrari, PF
+   Palanza, P
+   Rodgers, RJ
+   Mainardi, M
+   Parmigiani, S
+AF Ferrari, PF
+   Palanza, P
+   Rodgers, RJ
+   Mainardi, M
+   Parmigiani, S
+TI Comparing different forms of male and female aggression in wild and
+   laboratory mice: An ethopharmacological study
+SO PHYSIOLOGY & BEHAVIOR
+RI Ferrari, Pier Francesco/G-5547-2017
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 17
+Z9 18
+SN 0031-9384
+PD AUG
+PY 1996
+VL 60
+IS 2
+BP 549
+EP 553
+DI 10.1016/S0031-9384(96)80030-8
+UT WOS:A1996UZ86000030
+PM 8840917
+ER
+
+PT J
+AU Yu, GZ
+   Kaba, H
+   Okutani, F
+   Takahashi, S
+   Higuchi, T
+AF Yu, GZ
+   Kaba, H
+   Okutani, F
+   Takahashi, S
+   Higuchi, T
+TI The olfactory bulb: A critical site of action for oxytocin in the
+   induction of maternal behaviour in the rat
+SO NEUROSCIENCE
+OI Kaba, Hideto/0000-0002-5187-1995
+TC 77
+Z9 77
+SN 0306-4522
+EI 1873-7544
+PD JUN
+PY 1996
+VL 72
+IS 4
+BP 1083
+EP 1088
+DI 10.1016/0306-4522(95)00600-1
+UT WOS:A1996UK04600017
+PM 8735231
+ER
+
+PT J
+AU Palanza, P
+   Rodgers, RJ
+   Ferrari, PF
+   Parmigiani, S
+AF Palanza, P
+   Rodgers, RJ
+   Ferrari, PF
+   Parmigiani, S
+TI Effects of chlordiazepoxide on maternal aggression in mice depend on
+   experience of resident and sex of intruder
+SO PHARMACOLOGY BIOCHEMISTRY AND BEHAVIOR
+RI Ferrari, Pier Francesco/G-5547-2017
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 21
+Z9 21
+SN 0091-3057
+PD MAY
+PY 1996
+VL 54
+IS 1
+BP 175
+EP 182
+DI 10.1016/0091-3057(95)02109-4
+UT WOS:A1996UF99800024
+PM 8728555
+ER
+
+PT J
+AU Lu, MH
+   Anderson, RR
+AF Lu, MH
+   Anderson, RR
+TI Triiodothyronine-induced hyperthyroidism and reproduction in female rats
+SO ENDOCRINE RESEARCH
+TC 5
+Z9 5
+SN 0743-5800
+PY 1996
+VL 22
+IS 3
+BP 237
+EP 260
+DI 10.3109/07435809609030510
+UT WOS:A1996VF50400003
+PM 8875137
+ER
+
+PT J
+AU PALANZA, P
+   PARMIGIANI, S
+   SAAL, FSV
+AF PALANZA, P
+   PARMIGIANI, S
+   SAAL, FSV
+TI URINE MARKING AND MATERNAL AGGRESSION OF WILD FEMALE MICE IN RELATION TO
+   ANOGENITAL DISTANCE AT BIRTH
+SO PHYSIOLOGY & BEHAVIOR
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 35
+Z9 35
+SN 0031-9384
+PD NOV
+PY 1995
+VL 58
+IS 5
+BP 827
+EP 835
+DI 10.1016/0031-9384(95)00107-T
+UT WOS:A1995TC91700002
+PM 8577877
+ER
+
+PT J
+AU SAAL, FSV
+   FRANKS, P
+   BOECHLER, M
+   PALANZA, P
+   PARMIGIANI, S
+AF SAAL, FSV
+   FRANKS, P
+   BOECHLER, M
+   PALANZA, P
+   PARMIGIANI, S
+TI NEST DEFENSE AND SURVIVAL OF OFFSPRING IN HIGHLY AGGRESSIVE WILD
+   CANADIAN FEMALE HOUSE MICE
+SO PHYSIOLOGY & BEHAVIOR
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 38
+Z9 38
+SN 0031-9384
+PD OCT
+PY 1995
+VL 58
+IS 4
+BP 669
+EP 678
+DI 10.1016/0031-9384(95)00121-X
+UT WOS:A1995RY84400006
+PM 8559775
+ER
+
+PT J
+AU MANNING, CJ
+   DEWSBURY, DA
+   WAKELAND, EK
+   POTTS, WK
+AF MANNING, CJ
+   DEWSBURY, DA
+   WAKELAND, EK
+   POTTS, WK
+TI COMMUNAL NESTING AND COMMUNAL NURSING IN-HOUSE MICE,
+   MUS-MUSCULUS-DOMESTICUS
+SO ANIMAL BEHAVIOUR
+OI Potts, Wayne/0000-0003-4137-0326
+TC 134
+Z9 136
+SN 0003-3472
+EI 1095-8282
+PD SEP
+PY 1995
+VL 50
+BP 741
+EP 751
+PN 3
+UT WOS:A1995RV28100015
+ER
+
+PT J
+AU KREBS, CJ
+   BOONSTRA, R
+   KENNEY, AJ
+AF KREBS, CJ
+   BOONSTRA, R
+   KENNEY, AJ
+TI POPULATION-DYNAMICS OF THE COLLARED LEMMING AND THE TUNDRA VOLE AT
+   PEARCE-POINT, NORTHWEST-TERRITORIES, CANADA
+SO OECOLOGIA
+TC 38
+Z9 39
+SN 0029-8549
+EI 1432-1939
+PD SEP
+PY 1995
+VL 103
+IS 4
+BP 481
+EP 489
+DI 10.1007/BF00328687
+UT WOS:A1995RV95300011
+PM 28306997
+ER
+
+PT J
+AU SIKES, RS
+AF SIKES, RS
+TI MATERNAL RESPONSE TO RESOURCE LIMITATIONS IN EASTERN WOODRATS
+SO ANIMAL BEHAVIOUR
+TC 25
+Z9 26
+SN 0003-3472
+EI 1095-8282
+PD JUN
+PY 1995
+VL 49
+IS 6
+BP 1551
+EP 1558
+DI 10.1016/0003-3472(95)90076-4
+UT WOS:A1995RE98700014
+ER
+
+PT J
+AU MAPPES, T
+   YLONEN, H
+   VIITALA, J
+AF MAPPES, T
+   YLONEN, H
+   VIITALA, J
+TI HIGHER REPRODUCTIVE SUCCESS AMONG KIN GROUPS OF BANK VOLES
+   (CLETHRIONOMYS-GLAREOLUS
+SO ECOLOGY
+RI Mappes, Tapio/B-9780-2013
+TC 67
+Z9 73
+SN 0012-9658
+PD JUN
+PY 1995
+VL 76
+IS 4
+BP 1276
+EP 1282
+DI 10.2307/1940934
+UT WOS:A1995QZ87800023
+ER
+
+PT J
+AU MATSUMOTO, F
+   KIMURA, T
+AF MATSUMOTO, F
+   KIMURA, T
+TI THE FACILITATIVE INFLUENCE OF EXPERIENTIAL FACTORS ON THE PARENTAL
+   BEHAVIOR OF MALE-MICE (MUS MUSCULUS) .1. THE EFFECTS OF THE EXPERIENCE
+   OF COPULATION AND COHABITATION WITH A PREGNANT FEMALE
+SO JOURNAL OF ETHOLOGY
+TC 1
+Z9 1
+SN 0289-0771
+PD JUN
+PY 1995
+VL 13
+IS 1
+BP 23
+EP 30
+DI 10.1007/BF02352559
+UT WOS:A1995RK50700004
+ER
+
+PT J
+AU STOREY, AE
+   JOYCE, TL
+AF STOREY, AE
+   JOYCE, TL
+TI PUP CONTACT PROMOTES PATERNAL RESPONSIVENESS IN MALE MEADOW VOLES
+SO ANIMAL BEHAVIOUR
+TC 30
+Z9 31
+SN 0003-3472
+PD JAN
+PY 1995
+VL 49
+IS 1
+BP 1
+EP 10
+DI 10.1016/0003-3472(95)80148-0
+UT WOS:A1995QC44700001
+ER
+
+PT J
+AU PEDERSEN, CA
+   CALDWELL, JD
+   WALKER, C
+   AYERS, G
+   MASON, GA
+AF PEDERSEN, CA
+   CALDWELL, JD
+   WALKER, C
+   AYERS, G
+   MASON, GA
+TI OXYTOCIN ACTIVATES THE POSTPARTUM ONSET OF RAT MATERNAL-BEHAVIOR IN THE
+   VENTRAL TEGMENTAL AND MEDIAL PREOPTIC AREAS
+SO BEHAVIORAL NEUROSCIENCE
+TC 320
+Z9 325
+SN 0735-7044
+EI 1939-0084
+PD DEC
+PY 1994
+VL 108
+IS 6
+BP 1163
+EP 1171
+DI 10.1037/0735-7044.108.6.1163
+UT WOS:A1994PY42700015
+PM 7893408
+ER
+
+PT J
+AU STOREY, AE
+   WALSH, CJ
+AF STOREY, AE
+   WALSH, CJ
+TI ARE CHEMICAL CUES AS EFFECTIVE AS PUP CONTACT FOR INDUCING PATERNAL
+   BEHAVIOR IN MEADOW VOLES
+SO BEHAVIOUR
+TC 18
+Z9 19
+SN 0005-7959
+EI 1568-539X
+PD DEC
+PY 1994
+VL 131
+BP 139
+EP 151
+DI 10.1163/156853994X00406
+PN 3-4
+UT WOS:A1994QT85100001
+ER
+
+PT J
+AU ELWOOD, RW
+AF ELWOOD, RW
+TI TEMPORAL-BASED KINSHIP RECOGNITION - A SWITCH IN TIME SAVES MINE
+SO BEHAVIOURAL PROCESSES
+TC 21
+Z9 21
+SN 0376-6357
+PD DEC
+PY 1994
+VL 33
+IS 1-2
+BP 15
+EP 24
+DI 10.1016/0376-6357(94)90057-4
+UT WOS:A1994QA09200003
+PM 24925237
+ER
+
+PT J
+AU SANTUCCI, D
+   MASTERSON, D
+   ELWOOD, RW
+AF SANTUCCI, D
+   MASTERSON, D
+   ELWOOD, RW
+TI EFFECTS OF AGE, SEX, AND ODORS FROM CONSPECIFIC ADULT MALES ON
+   ULTRASONIC VOCALIZATIONS OF INFANT CS1 MICE
+SO BEHAVIOURAL PROCESSES
+TC 16
+Z9 17
+SN 0376-6357
+PD NOV
+PY 1994
+VL 32
+IS 3
+BP 285
+EP 295
+DI 10.1016/0376-6357(94)90048-5
+UT WOS:A1994PV59800005
+PM 24896507
+ER
+
+PT J
+AU CHOUDHARY, DN
+   SAHAY, GR
+   SINGH, JN
+AF CHOUDHARY, DN
+   SAHAY, GR
+   SINGH, JN
+TI ANTIFERTILITY AND CANNIBALISTIC PROPERTIES OF SOME MYCOTOXINS IN
+   ALBINO-RATS
+SO JOURNAL OF FOOD SCIENCE AND TECHNOLOGY-MYSORE
+TC 3
+Z9 4
+SN 0022-1155
+PD NOV-DEC
+PY 1994
+VL 31
+IS 6
+BP 497
+EP 499
+UT WOS:A1994QN01100012
+ER
+
+PT J
+AU PALANZA, P
+   PARMIGIANI, S
+AF PALANZA, P
+   PARMIGIANI, S
+TI FUNCTIONAL-ANALYSIS OF MATERNAL AGGRESSION IN THE HOUSE MOUSE
+   (MUS-MUSCULUS-DOMESTICUS)
+SO BEHAVIOURAL PROCESSES
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 21
+Z9 21
+SN 0376-6357
+EI 1872-8308
+PD JUN
+PY 1994
+VL 32
+IS 1
+BP 1
+EP 16
+DI 10.1016/0376-6357(94)90023-X
+UT WOS:A1994NQ53700001
+PM 24925109
+ER
+
+PT J
+AU STOREY, AE
+   BRADBURY, CG
+   JOYCE, TL
+AF STOREY, AE
+   BRADBURY, CG
+   JOYCE, TL
+TI NEST ATTENDANCE IN MALE MEADOW VOLES - THE ROLE OF THE FEMALE IN
+   REGULATING MALE INTERACTIONS WITH PUPS
+SO ANIMAL BEHAVIOUR
+TC 43
+Z9 46
+SN 0003-3472
+EI 1095-8282
+PD MAY
+PY 1994
+VL 47
+IS 5
+BP 1037
+EP 1046
+DI 10.1006/anbe.1994.1142
+UT WOS:A1994NM34700004
+ER
+
+PT J
+AU ELWOOD, RW
+   MASON, C
+AF ELWOOD, RW
+   MASON, C
+TI THE COUVADE AND THE ONSET OF PATERNAL CARE - A BIOLOGICAL PERSPECTIVE
+SO ETHOLOGY AND SOCIOBIOLOGY
+TC 23
+Z9 23
+SN 0162-3095
+EI 1873-6262
+PD MAY
+PY 1994
+VL 15
+IS 3
+BP 145
+EP 156
+DI 10.1016/0162-3095(94)90037-X
+UT WOS:A1994NW06000003
+ER
+
+PT J
+AU MENDL, M
+AF MENDL, M
+TI HOW SHOULD PARENTS RESPOND TO A REDUCTION IN LITTER SIZE ABANDONMENT OR
+   EXTRA CARE
+SO BEHAVIOURAL PROCESSES
+RI Mendl, Michael T/D-7220-2016
+OI Mendl, Michael T/0000-0002-5302-1871
+TC 11
+Z9 11
+SN 0376-6357
+EI 1872-8308
+PD APR
+PY 1994
+VL 31
+IS 2-3
+BP 285
+EP 291
+DI 10.1016/0376-6357(94)90013-2
+UT WOS:A1994NF08800013
+PM 24924940
+ER
+
+PT J
+AU GUBERNICK, DJ
+   SCHNEIDER, KA
+   JEANNOTTE, LA
+AF GUBERNICK, DJ
+   SCHNEIDER, KA
+   JEANNOTTE, LA
+TI INDIVIDUAL-DIFFERENCES IN THE MECHANISMS UNDERLYING THE ONSET AND
+   MAINTENANCE OF PATERNAL BEHAVIOR AND THE INHIBITION OF INFANTICIDE IN
+   THE MONOGAMOUS BIPARENTAL CALIFORNIA MOUSE, PEROMYSCUS-CALIFORNICUS
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+TC 64
+Z9 65
+SN 0340-5443
+EI 1432-0762
+PD MAR
+PY 1994
+VL 34
+IS 3
+BP 225
+EP 231
+DI 10.1007/s002650050037
+UT WOS:A1994NG04500009
+ER
+
+PT J
+AU PALANZA, P
+   PARMIGIANI, S
+   SAAL, FSV
+AF PALANZA, P
+   PARMIGIANI, S
+   SAAL, FSV
+TI MATERNAL AGGRESSION TOWARD INFANTICIDAL MALES OF DIFFERENT SOCIAL-STATUS
+   IN WILD HOUSE MICE (MUS-MUSCULUS-DOMESTICUS)
+SO AGGRESSIVE BEHAVIOR
+TC 15
+Z9 15
+SN 0096-140X
+EI 1098-2337
+PY 1994
+VL 20
+IS 3
+BP 267
+EP 274
+DI 10.1002/1098-2337(1994)20:3<267::AID-AB2480200313>3.0.CO;2-1
+UT WOS:A1994NM99600012
+ER
+
+PT J
+AU MCCARTHY, MM
+   CURRAN, GH
+   SIEGEL, HI
+AF MCCARTHY, MM
+   CURRAN, GH
+   SIEGEL, HI
+TI EVIDENCE FOR THE INVOLVEMENT OF PROLACTIN IN THE MATERNAL-BEHAVIOR OF
+   THE HAMSTER
+SO PHYSIOLOGY & BEHAVIOR
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 18
+Z9 19
+SN 0031-9384
+PD JAN
+PY 1994
+VL 55
+IS 1
+BP 181
+EP 184
+DI 10.1016/0031-9384(94)90028-0
+UT WOS:A1994ML91600027
+PM 8140165
+ER
+
+PT J
+AU ROBERTSON, IC
+AF ROBERTSON, IC
+TI NEST INTRUSIONS, INFANTICIDE, AND PARENTAL CARE IN THE BURYING BEETLE,
+   NICROPHORUS-ORBICOLLIS (COLEOPTERA, SILPHIDAE)
+SO JOURNAL OF ZOOLOGY
+TC 58
+Z9 61
+SN 0952-8369
+PD DEC
+PY 1993
+VL 231
+BP 583
+EP 593
+DI 10.1111/j.1469-7998.1993.tb01940.x
+PN 4
+UT WOS:A1993MR23300006
+ER
+
+PT J
+AU PERRIGO, G
+   BELVIN, L
+   QUINDRY, P
+   KADIR, T
+   BECKER, J
+   VANLOOK, C
+   NIEWOEHNER, J
+   SAAL, FSV
+AF PERRIGO, G
+   BELVIN, L
+   QUINDRY, P
+   KADIR, T
+   BECKER, J
+   VANLOOK, C
+   NIEWOEHNER, J
+   SAAL, FSV
+TI GENETIC MEDIATION OF INFANTICIDE AND PARENTAL BEHAVIOR IN MALE AND
+   FEMALE DOMESTIC AND WILD STOCK HOUSE MICE
+SO BEHAVIOR GENETICS
+TC 31
+Z9 31
+SN 0001-8244
+PD NOV
+PY 1993
+VL 23
+IS 6
+BP 525
+EP 531
+DI 10.1007/BF01068143
+UT WOS:A1993MP03900004
+PM 8129694
+ER
+
+PT J
+AU BOYER, TS
+   TERMAN, CR
+AF BOYER, TS
+   TERMAN, CR
+TI COMPARING REPRODUCTIVE INHIBITION IN FEMALE WHITE-FOOTED MICE FROM
+   MICHIGAN AND VIRGINIA
+SO JOURNAL OF MAMMALOGY
+TC 2
+Z9 2
+SN 0022-2372
+PD NOV
+PY 1993
+VL 74
+IS 4
+BP 813
+EP 818
+DI 10.2307/1382419
+UT WOS:A1993MK17100001
+ER
+
+PT J
+AU SANDNABBA, NK
+AF SANDNABBA, NK
+TI FEMALE AGGRESSION DURING GESTATION AND LACTATION IN 2 STRAINS OF MICE
+   SELECTED FOR ISOLATION-INDUCED INTERMALE AGGRESSION
+SO BEHAVIOURAL PROCESSES
+TC 11
+Z9 11
+SN 0376-6357
+PD OCT
+PY 1993
+VL 30
+IS 2
+BP 157
+EP 164
+DI 10.1016/0376-6357(93)90005-C
+UT WOS:A1993MB40600005
+PM 24896718
+ER
+
+PT J
+AU WILSON, WL
+   ELWOOD, RW
+   MONTGOMERY, WI
+AF WILSON, WL
+   ELWOOD, RW
+   MONTGOMERY, WI
+TI INFANTICIDE AND MATERNAL DEFENSE IN THE WOOD MOUSE APODEMUS-SYLVATICUS
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 11
+Z9 13
+SN 0394-9370
+PD SEP
+PY 1993
+VL 5
+IS 3
+BP 365
+EP 370
+DI 10.1080/08927014.1993.9523024
+UT WOS:A1993MD40800009
+ER
+
+PT J
+AU PERRIGO, G
+   BELVIN, L
+   SAAL, FSV
+AF PERRIGO, G
+   BELVIN, L
+   SAAL, FSV
+TI SOCIAL INHIBITION OF INFANTICIDE IN MALE HOUSE MICE
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 10
+Z9 10
+SN 0394-9370
+PD JUL
+PY 1993
+VL 5
+IS 2
+BP 181
+EP 185
+DI 10.1080/08927014.1993.9523102
+UT WOS:A1993LP47000005
+ER
+
+PT J
+AU LYONS, JP
+AF LYONS, JP
+TI CAREGIVING IN VIRGIN MICE (MUS-MUSCULUS) - EFFECTS OF BIPARENTAL CARE
+   AND EXPOSURE TO A 2ND LITTER DURING PREWEANING DEVELOPMENT
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+TC 5
+Z9 5
+SN 0735-7036
+PD JUN
+PY 1993
+VL 107
+IS 2
+BP 187
+EP 192
+UT WOS:A1993LF36600007
+PM 8370272
+ER
+
+PT J
+AU DAMATO, FR
+AF DAMATO, FR
+TI EFFECT OF FAMILIARITY WITH THE MOTHER AND KINSHIP ON INFANTICIDAL AND
+   ALLOPARENTAL BEHAVIOR IN VIRGIN HOUSE MICE
+SO BEHAVIOUR
+OI D'Amato, Francesca/0000-0002-4577-4574
+TC 8
+Z9 10
+SN 0005-7959
+EI 1568-539X
+PD MAR
+PY 1993
+VL 124
+BP 313
+EP 326
+DI 10.1163/156853993X00632
+PN 3-4
+UT WOS:A1993LQ30700008
+ER
+
+PT J
+AU NOVAKOVA, V
+   STERC, J
+   KUCHAR, S
+   MOZES, S
+AF NOVAKOVA, V
+   STERC, J
+   KUCHAR, S
+   MOZES, S
+TI MATERNAL-BEHAVIOR IN SEPTAL RAT FEMALES
+SO PHYSIOLOGICAL RESEARCH
+TC 5
+Z9 5
+SN 0862-8408
+EI 1802-9973
+PY 1993
+VL 42
+IS 5
+BP 351
+EP 360
+UT WOS:A1993MK03700011
+PM 8130183
+ER
+
+PT J
+AU PERRIGO, G
+   BELVIN, L
+   SAAL, FSV
+AF PERRIGO, G
+   BELVIN, L
+   SAAL, FSV
+TI TIME AND SEX IN THE MALE-MOUSE - TEMPORAL REGULATION OF INFANTICIDE AND
+   PARENTAL BEHAVIOR
+SO CHRONOBIOLOGY INTERNATIONAL
+TC 16
+Z9 16
+SN 0742-0528
+PD DEC
+PY 1992
+VL 9
+IS 6
+BP 421
+EP 433
+DI 10.3109/07420529209064554
+UT WOS:A1992JZ29900003
+PM 1473195
+ER
+
+PT J
+AU CALAMANDREI, G
+   WILKINSON, LS
+   KEVERNE, EB
+AF CALAMANDREI, G
+   WILKINSON, LS
+   KEVERNE, EB
+TI OLFACTORY RECOGNITION OF INFANTS IN LABORATORY MICE - ROLE OF
+   NORADRENERGIC MECHANISMS
+SO PHYSIOLOGY & BEHAVIOR
+RI Calamandrei, Gemma/M-3815-2014
+OI Calamandrei, Gemma/0000-0003-3762-3132
+TC 27
+Z9 27
+SN 0031-9384
+PD NOV
+PY 1992
+VL 52
+IS 5
+BP 901
+EP 907
+DI 10.1016/0031-9384(92)90369-D
+UT WOS:A1992JZ48200012
+PM 1484846
+ER
+
+PT J
+AU WANG, MW
+   HEAP, RB
+   TAUSSIG, MJ
+AF WANG, MW
+   HEAP, RB
+   TAUSSIG, MJ
+TI ABNORMAL MATERNAL-BEHAVIOR IN MICE PREVIOUSLY IMMUNIZED AGAINST
+   PROGESTERONE
+SO JOURNAL OF ENDOCRINOLOGY
+TC 7
+Z9 7
+SN 0022-0795
+EI 1479-6805
+PD AUG
+PY 1992
+VL 134
+IS 2
+BP 257
+EP 267
+DI 10.1677/joe.0.1340257
+UT WOS:A1992JG74400014
+PM 1402536
+ER
+
+PT J
+AU ELWOOD, RW
+AF ELWOOD, RW
+TI ETHICAL IMPLICATIONS OF STUDIES ON INFANTICIDE AND MATERNAL AGGRESSION
+   IN RODENTS (REPRINTED FROM ANIMAL BEHAVIOR, VOL 42, PG 841-849, 1991)
+SO ANIMAL BEHAVIOUR
+TC 0
+Z9 0
+SN 0003-3472
+PY 1992
+SU S
+BP 47
+EP 55
+UT WOS:A1992JZ39200008
+ER
+
+PT J
+AU PARMIGIANI, S
+   PALANZA, P
+AF PARMIGIANI, S
+   PALANZA, P
+TI FLUPRAZINE INHIBITS INTERMALE ATTACK AND INFANTICIDE, BUT NOT PREDATION,
+   IN MALE-MICE
+SO NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+CT ETHOPHARMACOLOGY CONF : ADVANCES IN ETHOPHARMACOLOGY
+CY APR 02-06, 1991
+CL LISEK, CZECHOSLOVAKIA
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 15
+Z9 15
+SN 0149-7634
+PD WIN
+PY 1991
+VL 15
+IS 4
+BP 511
+EP 513
+DI 10.1016/S0149-7634(05)80141-1
+UT WOS:A1991GV08500014
+PM 1792013
+ER
+
+PT J
+AU ELWOOD, RW
+AF ELWOOD, RW
+TI ETHICAL IMPLICATIONS OF STUDIES ON INFANTICIDE AND MATERNAL AGGRESSION
+   IN RODENTS
+SO ANIMAL BEHAVIOUR
+TC 70
+Z9 70
+SN 0003-3472
+PD NOV
+PY 1991
+VL 42
+BP 841
+EP 849
+DI 10.1016/S0003-3472(05)80128-9
+PN 5
+UT WOS:A1991GT04300013
+ER
+
+PT J
+AU PERRIGO, G
+   BELVIN, L
+   SAAL, FSV
+AF PERRIGO, G
+   BELVIN, L
+   SAAL, FSV
+TI INDIVIDUAL VARIATION IN THE NEURAL TIMING OF INFANTICIDE AND PARENTAL
+   BEHAVIOR IN MALE HOUSE MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 43
+Z9 43
+SN 0031-9384
+PD AUG
+PY 1991
+VL 50
+IS 2
+BP 287
+EP 296
+DI 10.1016/0031-9384(91)90068-Y
+UT WOS:A1991GG61600004
+PM 1745671
+ER
+
+PT J
+AU PETERS, LC
+   SIST, TC
+   KRISTAL, MB
+AF PETERS, LC
+   SIST, TC
+   KRISTAL, MB
+TI MAINTENANCE AND DECLINE OF THE SUPPRESSION OF INFANTICIDE IN MOTHER RATS
+SO PHYSIOLOGY & BEHAVIOR
+RI Kristal, Mark B./V-7485-2017
+OI Kristal, Mark B./0000-0002-0725-1457
+TC 9
+Z9 10
+SN 0031-9384
+PD AUG
+PY 1991
+VL 50
+IS 2
+BP 451
+EP 456
+DI 10.1016/0031-9384(91)90093-4
+UT WOS:A1991GG61600029
+PM 1745693
+ER
+
+PT J
+AU SAAL, FSV
+   EVEN, MD
+   QUADAGNO, DM
+AF SAAL, FSV
+   EVEN, MD
+   QUADAGNO, DM
+TI EFFECTS OF MATERNAL STRESS ON PUBERTY, FERTILITY AND AGGRESSIVE-BEHAVIOR
+   OF FEMALE MICE FROM DIFFERENT INTRAUTERINE POSITIONS
+SO PHYSIOLOGY & BEHAVIOR
+TC 21
+Z9 22
+SN 0031-9384
+PD JUN
+PY 1991
+VL 49
+IS 6
+BP 1073
+EP 1078
+DI 10.1016/0031-9384(91)90333-J
+UT WOS:A1991FW45400007
+PM 1896489
+ER
+
+PT J
+AU PALANZA, P
+   PARMIGIANI, S
+AF PALANZA, P
+   PARMIGIANI, S
+TI INHIBITION OF INFANTICIDE IN MALE SWISS MICE - BEHAVIORAL POLYMORPHISM
+   IN RESPONSE TO MULTIPLE MEDIATING FACTORS
+SO PHYSIOLOGY & BEHAVIOR
+OI PARMIGIANI, STEFANO/0000-0002-6658-2029
+TC 25
+Z9 25
+SN 0031-9384
+PD APR
+PY 1991
+VL 49
+IS 4
+BP 797
+EP 802
+DI 10.1016/0031-9384(91)90320-N
+UT WOS:A1991FL39200023
+PM 1881986
+ER
+
+PT J
+AU Wolff, JO
+   Cicirello, DM
+AF Wolff, Jerry O.
+   Cicirello, Donna M.
+TI Comparative paternal and infanticidal behavior of sympatric white-footed
+   mice (Peromyscus leucopus noveboracensis) and deermice (P. maniculatus
+   nubiterrae)
+SO BEHAVIORAL ECOLOGY
+TC 49
+Z9 52
+SN 1045-2249
+EI 1465-7279
+PD SPR
+PY 1991
+VL 2
+IS 1
+BP 38
+EP 45
+DI 10.1093/beheco/2.1.38
+UT WOS:000207392500005
+ER
+
+PT J
+AU SCHNEIDER, JE
+   WADE, GN
+AF SCHNEIDER, JE
+   WADE, GN
+TI EFFECTS OF AMBIENT-TEMPERATURE AND BODY-FAT CONTENT ON MATERNAL LITTER
+   REDUCTION IN SYRIAN-HAMSTERS
+SO PHYSIOLOGY & BEHAVIOR
+TC 18
+Z9 18
+SN 0031-9384
+PD JAN
+PY 1991
+VL 49
+IS 1
+BP 135
+EP 139
+DI 10.1016/0031-9384(91)90244-I
+UT WOS:A1991ET74400024
+PM 2017467
+ER
+
+PT J
+AU ELWOOD, RW
+   NESBITT, AA
+   KENNEDY, HF
+AF ELWOOD, RW
+   NESBITT, AA
+   KENNEDY, HF
+TI MATERNAL AGGRESSION IN RESPONSE TO THE RISK OF INFANTICIDE BY MALE-MICE,
+   MUS-DOMESTICUS
+SO ANIMAL BEHAVIOUR
+TC 32
+Z9 32
+SN 0003-3472
+PD DEC
+PY 1990
+VL 40
+BP 1080
+EP 1086
+DI 10.1016/S0003-3472(05)80174-5
+PN 6
+UT WOS:A1990EQ11700006
+ER
+
+PT J
+AU MCCARTHY, MM
+AF MCCARTHY, MM
+TI OXYTOCIN INHIBITS INFANTICIDE IN FEMALE HOUSE MICE (MUS-DOMESTICUS)
+SO HORMONES AND BEHAVIOR
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 89
+Z9 89
+SN 0018-506X
+PD SEP
+PY 1990
+VL 24
+IS 3
+BP 365
+EP 375
+DI 10.1016/0018-506X(90)90015-P
+UT WOS:A1990EA02200005
+PM 2227849
+ER
+
+PT J
+AU MCCARTHY, MM
+AF MCCARTHY, MM
+TI SHORT-TERM EARLY EXPOSURE TO PUPS ALTERS INFANTICIDE IN ADULTHOOD IN
+   MALE BUT NOT IN FEMALE WILD HOUSE MICE (MUS-DOMESTICUS)
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 14
+Z9 14
+SN 0735-7036
+PD JUN
+PY 1990
+VL 104
+IS 2
+BP 195
+EP 197
+DI 10.1037/0735-7036.104.2.195
+UT WOS:A1990DF91100014
+PM 2364665
+ER
+
+PT J
+AU ELWOOD, RW
+   KENNEDY, HF
+AF ELWOOD, RW
+   KENNEDY, HF
+TI THE RELATIONSHIP BETWEEN INFANTICIDE AND PREGNANCY BLOCK IN MICE
+SO BEHAVIORAL AND NEURAL BIOLOGY
+TC 20
+Z9 21
+SN 0163-1047
+PD MAR
+PY 1990
+VL 53
+IS 2
+BP 277
+EP 283
+DI 10.1016/0163-1047(90)90526-C
+UT WOS:A1990CW38500012
+PM 2331236
+ER
+
+PT J
+AU CICIRELLO, DM
+   WOLFF, JO
+AF CICIRELLO, DM
+   WOLFF, JO
+TI THE EFFECTS OF MATING ON INFANTICIDE AND PUP DISCRIMINATION IN
+   WHITE-FOOTED MICE
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+TC 33
+Z9 36
+SN 0340-5443
+EI 1432-0762
+PY 1990
+VL 26
+IS 4
+BP 275
+EP 279
+UT WOS:A1990CW84800006
+ER
+
+PT J
+AU PARMIGIANI, S
+   PALANZA, P
+   BRAIN, PF
+AF PARMIGIANI, S
+   PALANZA, P
+   BRAIN, PF
+TI INTRASPECIFIC MATERNAL AGGRESSION IN THE HOUSE MOUSE (MUS-DOMESTICUS) -
+   A COUNTERSTRATEGY TO INFANTICIDE BY MALE
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 23
+Z9 24
+SN 0394-9370
+PD DEC
+PY 1989
+VL 1
+IS 4
+BP 341
+EP 352
+DI 10.1080/08927014.1989.9525504
+UT WOS:A1989CN75000005
+ER
+
+PT J
+AU YOUSIF, YY
+   BRAIN, PF
+   PARMIGIANI, S
+   MAINARDI, M
+AF YOUSIF, YY
+   BRAIN, PF
+   PARMIGIANI, S
+   MAINARDI, M
+TI EFFECTS OF GENOTYPE AND INTRAUTERINE LOCATION ON THE PROPENSITY FOR
+   INFANTICIDE BY PRIMIPAROUS FEMALE MICE
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 3
+Z9 3
+SN 0394-9370
+PD NOV
+PY 1989
+VL 1
+IS 3
+BP 283
+EP 290
+DI 10.1080/08927014.1989.9525517
+UT WOS:A1989CK41000007
+ER
+
+PT J
+AU WOLFF, JO
+   CICIRELLO, DM
+AF WOLFF, JO
+   CICIRELLO, DM
+TI FIELD EVIDENCE FOR SEXUAL SELECTION AND RESOURCE COMPETITION INFANTICIDE
+   IN WHITE-FOOTED MICE
+SO ANIMAL BEHAVIOUR
+TC 45
+Z9 46
+SN 0003-3472
+EI 1095-8282
+PD OCT
+PY 1989
+VL 38
+BP 637
+EP 642
+DI 10.1016/S0003-3472(89)80009-0
+PN 4
+UT WOS:A1989AU73400009
+ER
+
+PT J
+AU MENNELLA, JA
+   MOLTZ, H
+AF MENNELLA, JA
+   MOLTZ, H
+TI PHEROMONAL EMISSION BY PREGNANT RATS PROTECTS AGAINST INFANTICIDE BY
+   NULLIPAROUS CONSPECIFICS
+SO PHYSIOLOGY & BEHAVIOR
+OI Mennella, Julie/0000-0002-8855-0204
+TC 10
+Z9 10
+SN 0031-9384
+PD OCT
+PY 1989
+VL 46
+IS 4
+BP 591
+EP 595
+DI 10.1016/0031-9384(89)90337-5
+UT WOS:A1989AX12000005
+PM 2602483
+ER
+
+PT J
+AU PERRIGO, G
+   BRYANT, WC
+   VOMSAAL, FS
+AF PERRIGO, G
+   BRYANT, WC
+   VOMSAAL, FS
+TI FETAL, HORMONAL AND EXPERIENTIAL FACTORS INFLUENCING THE MATING-INDUCED
+   REGULATION OF INFANTICIDE IN MALE HOUSE MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 23
+Z9 23
+SN 0031-9384
+PD AUG
+PY 1989
+VL 46
+IS 2
+BP 121
+EP 128
+DI 10.1016/0031-9384(89)90244-8
+UT WOS:A1989AQ69900003
+PM 2602449
+ER
+
+PT J
+AU PARMIGIANI, S
+AF PARMIGIANI, S
+TI INHIBITION OF INFANTICIDE IN MALE HOUSE MICE (MUS, DOMESTICUS) - IS KIN
+   RECOGNITION INVOLVED
+SO ETHOLOGY ECOLOGY & EVOLUTION
+TC 13
+Z9 16
+SN 0394-9370
+PD MAY
+PY 1989
+VL 1
+IS 1
+BP 93
+EP 98
+DI 10.1080/08927014.1989.9525533
+UT WOS:A1989AV51600006
+ER
+
+PT J
+AU YOUSIF, YY
+   BRAIN, PF
+   PARMIGIANI, S
+   MAINARDI, M
+AF YOUSIF, YY
+   BRAIN, PF
+   PARMIGIANI, S
+   MAINARDI, M
+TI EFFECTS OF INTRA-UTERINE LOCATION ON RATES OF INFANTICIDE SHOWN BY 3
+   STRAINS OF FEMALE MICE
+SO AGGRESSIVE BEHAVIOR
+TC 0
+Z9 0
+SN 0096-140X
+PY 1989
+VL 15
+IS 1
+BP 129
+EP 129
+UT WOS:A1989U588900144
+ER
+
+PT B
+AU PERRIGO, GH
+   VOMSAAL, FS
+AF PERRIGO, GH
+   VOMSAAL, FS
+BE BLANCHARD, RJ
+   BRAIN, PF
+   BLANCHARD, DC
+   PARMIGIANI, S
+TI MATING-INDUCED REGULATION OF INFANTICIDE IN MALE-MICE - FETAL
+   PROGRAMMING OF A UNIQUE STIMULUS-RESPONSE
+SO ETHOEXPERIMENTAL APPROACHES TO THE STUDY OF BEHAVIOR
+SE NATO ADVANCED SCIENCE INSTITUTES SERIES, SERIES D, BEHAVIORAL AND SOCIAL
+   SCIENCES
+CT NATO ADVANCED STUDY INST ON ETHOEXPERIMENTAL ANALYSIS OF BEHAVIOR
+CY JUL 11-22, 1988
+CL CIOCCO, ITALY
+TC 1
+Z9 1
+BN 0-7923-0296-6
+PY 1989
+VL 48
+BP 320
+EP 335
+UT WOS:A1989BQ67N00022
+ER
+
+PT B
+AU PARMIGIANI, S
+AF PARMIGIANI, S
+BE BRAIN, PF
+   MAINARDI, D
+   PARMIGIANI, S
+TI MATERNAL AGGRESSION AND INFANTICIDE IN THE HOUSE MOUSE - CONSEQUENCES ON
+   THE SOCIAL DYNAMICS
+SO HOUSE MOUSE AGGRESSION: A MODEL FOR UNDERSTANDING THE EVOLUTION OF
+   SOCIAL BEHAVIOUR
+SE ETTORE MAJORANA INTERNATIONAL LIFE SCIENCES SERIES
+CT WORKSHOP AT THE INTERNATIONAL SCHOOL OF ETHOLOGY - HOUSE MOUSE
+   AGGRESSION : A MODEL FOR UNDERSTANDING THE EVOLUTION OF SOCIAL BEHAVIOUR
+CY SEP 10-15, 1987
+CL ETTORE MAJORANA CTR SCI CULTURE, ERICE, ITALY
+HO ETTORE MAJORANA CTR SCI CULTURE
+TC 12
+Z9 12
+BN 3-7186-4860-1
+PY 1989
+VL 6
+BP 161
+EP 178
+UT WOS:A1989BQ40L00008
+ER
+
+PT B
+AU VOMSAAL, FS
+AF VOMSAAL, FS
+BE BRAIN, PF
+   MAINARDI, D
+   PARMIGIANI, S
+TI PERINATAL TESTOSTERONE EXPOSURE HAS OPPOSITE EFFECTS ON ADULT INTERMALE
+   AGGRESSION AND INFANTICIDE IN MICE
+SO HOUSE MOUSE AGGRESSION: A MODEL FOR UNDERSTANDING THE EVOLUTION OF
+   SOCIAL BEHAVIOUR
+SE ETTORE MAJORANA INTERNATIONAL LIFE SCIENCES SERIES
+CT WORKSHOP AT THE INTERNATIONAL SCHOOL OF ETHOLOGY - HOUSE MOUSE
+   AGGRESSION : A MODEL FOR UNDERSTANDING THE EVOLUTION OF SOCIAL BEHAVIOUR
+CY SEP 10-15, 1987
+CL ETTORE MAJORANA CTR SCI CULTURE, ERICE, ITALY
+HO ETTORE MAJORANA CTR SCI CULTURE
+TC 5
+Z9 5
+BN 3-7186-4860-1
+PY 1989
+VL 6
+BP 179
+EP 204
+UT WOS:A1989BQ40L00009
+ER
+
+PT J
+AU KENNEDY, HF
+   ELWOOD, RW
+AF KENNEDY, HF
+   ELWOOD, RW
+TI STRAIN DIFFERENCES IN THE INHIBITION OF INFANTICIDE IN MALE-MICE
+   (MUS-MUSCULUS)
+SO BEHAVIORAL AND NEURAL BIOLOGY
+TC 29
+Z9 29
+SN 0163-1047
+PD NOV
+PY 1988
+VL 50
+IS 3
+BP 349
+EP 353
+DI 10.1016/S0163-1047(88)91066-7
+UT WOS:A1988Q906100010
+PM 3202817
+ER
+
+PT J
+AU SAAL, FSV
+AF SAAL, FSV
+TI INFANTICIDE IN WILD MALE AND FEMALE HOUSE MICE
+SO AGGRESSIVE BEHAVIOR
+TC 0
+Z9 0
+SN 0096-140X
+PY 1988
+VL 14
+IS 2
+BP 124
+EP 124
+UT WOS:A1988N070100010
+ER
+
+PT J
+AU MENNELLA, JA
+   MOLTZ, H
+AF MENNELLA, JA
+   MOLTZ, H
+TI INFANTICIDE IN RATS - MALE STRATEGY AND FEMALE COUNTER-STRATEGY
+SO PHYSIOLOGY & BEHAVIOR
+OI Mennella, Julie/0000-0002-8855-0204
+TC 78
+Z9 78
+SN 0031-9384
+PY 1988
+VL 42
+IS 1
+BP 19
+EP 28
+DI 10.1016/0031-9384(88)90254-5
+UT WOS:A1988L787200004
+PM 3387474
+ER
+
+PT J
+AU MENNELLA, JA
+   MOLTZ, H
+AF MENNELLA, JA
+   MOLTZ, H
+TI INFANTICIDE IN THE MALE-RAT - THE ROLE OF THE VOMERONASAL ORGAN
+SO PHYSIOLOGY & BEHAVIOR
+OI Mennella, Julie/0000-0002-8855-0204
+TC 32
+Z9 33
+SN 0031-9384
+PY 1988
+VL 42
+IS 3
+BP 303
+EP 306
+DI 10.1016/0031-9384(88)90087-X
+UT WOS:A1988M491500016
+PM 3136468
+ER
+
+PT J
+AU DAMATO, FR
+AF DAMATO, FR
+TI INFANTICIDE BY GENETICALLY DEAF MICE - POSSIBLE EVIDENCE FOR AN
+   INHIBITING FUNCTION OF PUPS ULTRASONIC CALLS
+SO AGGRESSIVE BEHAVIOR
+OI D'Amato, Francesca/0000-0002-4577-4574
+TC 8
+Z9 9
+SN 0096-140X
+PY 1987
+VL 13
+IS 1
+BP 25
+EP 28
+DI 10.1002/1098-2337(1987)13:1<25::AID-AB2480130105>3.0.CO;2-G
+UT WOS:A1987G519500004
+ER
+
+PT J
+AU LORE, R
+AF LORE, R
+TI MATERNAL AGGRESSION AND INFANTICIDE IN RATS
+SO AGGRESSIVE BEHAVIOR
+TC 2
+Z9 2
+SN 0096-140X
+PY 1987
+VL 13
+IS 5
+BP 287
+EP 287
+UT WOS:A1987K917300007
+ER
+
+PT J
+AU MANN, MA
+AF MANN, MA
+TI INFANTICIDE AMONG GENETICALLY HOMOGENEOUS (INBRED) AND HETEROGENEOUS
+   MICE
+SO AGGRESSIVE BEHAVIOR
+TC 1
+Z9 1
+SN 0096-140X
+PY 1987
+VL 13
+IS 5
+BP 287
+EP 287
+UT WOS:A1987K917300006
+ER
+
+PT J
+AU BURNS, NE
+AF BURNS, NE
+TI PATERNAL RECOGNITION AND INFANTICIDE IN MALE DEER MICE
+SO AMERICAN ZOOLOGIST
+TC 4
+Z9 4
+SN 0003-1569
+PY 1987
+VL 27
+IS 4
+BP A48
+EP A48
+UT WOS:A1987L706200197
+ER
+
+PT J
+AU WOLFF, JO
+AF WOLFF, JO
+TI INFANTICIDE IN WHITE-FOOTED MICE, PEROMYSCUS-LEUCOPUS
+SO ANIMAL BEHAVIOUR
+TC 5
+Z9 5
+SN 0003-3472
+PD OCT
+PY 1986
+VL 34
+BP 1568
+EP 1568
+DI 10.1016/S0003-3472(86)80227-5
+PN 5
+UT WOS:A1986E483900029
+ER
+
+PT J
+AU BROWN, RE
+AF BROWN, RE
+TI SOCIAL AND HORMONAL FACTORS INFLUENCING INFANTICIDE AND ITS SUPPRESSION
+   IN ADULT MALE LONG-EVANS RATS (RATTUS,
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+TC 60
+Z9 60
+SN 0735-7036
+PD JUN
+PY 1986
+VL 100
+IS 2
+BP 155
+EP 161
+DI 10.1037/0735-7036.100.2.155
+UT WOS:A1986C527300009
+PM 3720284
+ER
+
+PT J
+AU MCCARTHY, MM
+   SAAL, FSV
+AF MCCARTHY, MM
+   SAAL, FSV
+TI INFANTICIDE BY VIRGIN CF-1 AND WILD MALE HOUSE MICE (MUS-MUSCULUS) -
+   EFFECTS OF AGE, PROLONGED ISOLATION, AND TESTING PROCEDURE
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 19
+Z9 19
+SN 0012-1630
+EI 1098-2302
+PD MAY
+PY 1986
+VL 19
+IS 3
+BP 279
+EP 290
+DI 10.1002/dev.420190313
+UT WOS:A1986C101800011
+PM 3709982
+ER
+
+PT J
+AU PAUL, L
+AF PAUL, L
+TI INFANTICIDE AND MATERNAL AGGRESSION - SYNCHRONY OF MALE AND FEMALE
+   REPRODUCTIVE STRATEGIES IN MICE
+SO AGGRESSIVE BEHAVIOR
+TC 37
+Z9 38
+SN 0096-140X
+PY 1986
+VL 12
+IS 1
+BP 1
+EP 11
+DI 10.1002/1098-2337(1986)12:1<1::AID-AB2480120102>3.0.CO;2-1
+UT WOS:A1986AYQ2500001
+ER
+
+PT J
+AU MCCARTHY, MM
+   BARE, JE
+   VOMSAAL, FS
+AF MCCARTHY, MM
+   BARE, JE
+   VOMSAAL, FS
+TI INFANTICIDE AND PARENTAL BEHAVIOR IN WILD FEMALE HOUSE MICE - EFFECTS OF
+   OVARIECTOMY, ADRENALECTOMY AND ADMINISTRATION OF OXYTOCIN AND
+   PROSTAGLANDIN-F2-ALPHA
+SO PHYSIOLOGY & BEHAVIOR
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 43
+Z9 43
+SN 0031-9384
+PD JAN
+PY 1986
+VL 36
+IS 1
+BP 17
+EP 23
+DI 10.1016/0031-9384(86)90066-1
+UT WOS:A1986AXM2000003
+PM 3952178
+ER
+
+PT J
+AU GHIRALDI, LL
+   SVARE, B
+AF GHIRALDI, LL
+   SVARE, B
+TI POSTPUBERTAL ISOLATION DECREASES INFANTICIDE AND ELEVATES PARENTAL CARE
+   IN C57BL/6J MALE-MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 9
+Z9 9
+SN 0031-9384
+PD JAN
+PY 1986
+VL 36
+IS 1
+BP 59
+EP 62
+DI 10.1016/0031-9384(86)90073-9
+UT WOS:A1986AXM2000010
+PM 3952184
+ER
+
+PT J
+AU MCCARTHY, MM
+   SAAL, FSV
+AF MCCARTHY, MM
+   SAAL, FSV
+TI INHIBITION OF INFANTICIDE AFTER MATING BY WILD MALE HOUSE MICE
+SO PHYSIOLOGY & BEHAVIOR
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 43
+Z9 43
+SN 0031-9384
+PY 1986
+VL 36
+IS 2
+BP 203
+EP 209
+DI 10.1016/0031-9384(86)90004-1
+UT WOS:A1986AYW8800002
+PM 3960991
+ER
+
+PT J
+AU ELWOOD, RW
+AF ELWOOD, RW
+TI INHIBITION OF INFANTICIDE AND ONSET OF PATERNAL CARE IN MALE-MICE
+   (MUS-MUSCULUS)
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+TC 55
+Z9 56
+SN 0735-7036
+PY 1985
+VL 99
+IS 4
+BP 457
+EP 467
+DI 10.1037/0735-7036.99.4.457
+UT WOS:A1985AVJ1100009
+ER
+
+PT J
+AU MCCARTHY, MM
+   SAAL, FSV
+AF MCCARTHY, MM
+   SAAL, FSV
+TI THE INFLUENCE OF REPRODUCTIVE STATE ON INFANTICIDE BY WILD FEMALE HOUSE
+   MICE (MUS-MUSCULUS)
+SO PHYSIOLOGY & BEHAVIOR
+RI McCarthy, Margaret/O-2059-2017
+OI McCarthy, Margaret/0000-0003-2243-4726
+TC 54
+Z9 54
+SN 0031-9384
+PY 1985
+VL 35
+IS 6
+BP 843
+EP 849
+DI 10.1016/0031-9384(85)90248-3
+UT WOS:A1985AWK2700002
+PM 3912779
+ER
+
+PT J
+AU SAAL, FSV
+AF SAAL, FSV
+TI TIME-CONTINGENT CHANGE IN INFANTICIDE AND PARENTAL BEHAVIOR INDUCED BY
+   EJACULATION IN MALE-MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 95
+Z9 95
+SN 0031-9384
+PY 1985
+VL 34
+IS 1
+BP 7
+EP 15
+DI 10.1016/0031-9384(85)90069-1
+UT WOS:A1985ADC7200002
+PM 4041052
+ER
+
+PT J
+AU ELWOOD, RW
+   OSTERMEYER, MC
+AF ELWOOD, RW
+   OSTERMEYER, MC
+TI DOES COPULATION INHIBIT INFANTICIDE IN MALE RODENTS
+SO ANIMAL BEHAVIOUR
+TC 49
+Z9 50
+SN 0003-3472
+PY 1984
+VL 32
+IS FEB
+BP 293
+EP 294
+DI 10.1016/S0003-3472(84)80350-4
+UT WOS:A1984SE55500033
+ER
+
+PT J
+AU DESANTIS, DT
+   SCHMALTZ, LW
+AF DESANTIS, DT
+   SCHMALTZ, LW
+TI THE MOTHER-LITTER RELATIONSHIP IN DEVELOPMENTAL RAT STUDIES -
+   CANNIBALISM VS CARING
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+TC 24
+Z9 25
+SN 0012-1630
+PY 1984
+VL 17
+IS 3
+BP 255
+EP 262
+DI 10.1002/dev.420170306
+UT WOS:A1984SP40500005
+PM 6539261
+ER
+
+PT J
+AU SVARE, B
+   KINSLEY, CH
+   MANN, MA
+   BROIDA, J
+AF SVARE, B
+   KINSLEY, CH
+   MANN, MA
+   BROIDA, J
+TI INFANTICIDE - ACCOUNTING FOR GENETIC-VARIATION IN MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 44
+Z9 44
+SN 0031-9384
+PY 1984
+VL 33
+IS 1
+BP 137
+EP 152
+DI 10.1016/0031-9384(84)90024-6
+UT WOS:A1984TG59500022
+PM 6542232
+ER
+
+PT J
+AU PETERS, LC
+   KRISTAL, MB
+AF PETERS, LC
+   KRISTAL, MB
+TI SUPPRESSION OF INFANTICIDE IN MOTHER RATS
+SO JOURNAL OF COMPARATIVE PSYCHOLOGY
+RI Kristal, Mark B./V-7485-2017
+OI Kristal, Mark B./0000-0002-0725-1457
+TC 36
+Z9 36
+SN 0735-7036
+PY 1983
+VL 97
+IS 2
+BP 167
+EP 177
+UT WOS:A1983QU04500008
+PM 6872509
+ER
+
+PT J
+AU SVARE, B
+   MANN, M
+   BROIDA, J
+   KINSLEY, C
+   GHIRALDI, L
+   MIELE, J
+   KONEN, C
+AF SVARE, B
+   MANN, M
+   BROIDA, J
+   KINSLEY, C
+   GHIRALDI, L
+   MIELE, J
+   KONEN, C
+TI INTERMALE AGGRESSION AND INFANTICIDE IN AGED C57BL/6J MALE-MICE -
+   BEHAVIORAL DEFICITS ARE NOT RELATED TO SERUM TESTOSTERONE (T) LEVELS AND
+   ARE NOT RECOVERED BY SUPPLEMENTAL T
+SO NEUROBIOLOGY OF AGING
+TC 5
+Z9 5
+SN 0197-4580
+PY 1983
+VL 4
+IS 4
+BP 305
+EP 312
+DI 10.1016/0197-4580(83)90007-6
+UT WOS:A1983SH50400006
+PM 6687000
+ER
+
+PT J
+AU VOMSAAL, FS
+AF VOMSAAL, FS
+TI VARIATION IN INFANTICIDE AND PARENTAL BEHAVIOR IN MALE-MICE DUE TO PRIOR
+   INTRAUTERINE PROXIMITY TO FEMALE FETUSES - ELIMINATION BY PRENATAL
+   STRESS
+SO PHYSIOLOGY & BEHAVIOR
+TC 48
+Z9 48
+SN 0031-9384
+PY 1983
+VL 30
+IS 5
+BP 675
+EP 681
+DI 10.1016/0031-9384(83)90162-2
+UT WOS:A1983QR67400002
+PM 6878473
+ER
+
+PT J
+AU MANN, MA
+   KINSLEY, C
+   BROIDA, J
+   SVARE, B
+AF MANN, MA
+   KINSLEY, C
+   BROIDA, J
+   SVARE, B
+TI INFANTICIDE EXHIBITED BY FEMALE MICE - GENETIC, DEVELOPMENTAL AND
+   HORMONAL INFLUENCES
+SO PHYSIOLOGY & BEHAVIOR
+TC 29
+Z9 29
+SN 0031-9384
+PY 1983
+VL 30
+IS 5
+BP 697
+EP 702
+DI 10.1016/0031-9384(83)90165-8
+UT WOS:A1983QR67400005
+PM 6878475
+ER
+
+PT J
+AU HUCK, UW
+   SOLTIS, RL
+   COOPERSMITH, CB
+AF HUCK, UW
+   SOLTIS, RL
+   COOPERSMITH, CB
+TI INFANTICIDE IN MALE LABORATORY MICE - EFFECTS OF SOCIAL-STATUS, PRIOR
+   SEXUAL EXPERIENCE, AND BASIS FOR DISCRIMINATION BETWEEN RELATED AND
+   UNRELATED YOUNG
+SO ANIMAL BEHAVIOUR
+TC 96
+Z9 99
+SN 0003-3472
+EI 1095-8282
+PY 1982
+VL 30
+IS NOV
+BP 1158
+EP 1165
+UT WOS:A1982PT67900024
+ER
+
+PT J
+AU SPETZ, JF
+   HAUG, M
+   MOUTIER, R
+   BRAIN, PF
+AF SPETZ, JF
+   HAUG, M
+   MOUTIER, R
+   BRAIN, PF
+TI A PRELIMINARY-ANALYSIS OF MATERNAL CANNIBALISM IN 2 INBRED STRAINS OF
+   MICE AND THEIR F1 HYBRIDS
+SO IRCS MEDICAL SCIENCE-BIOCHEMISTRY
+TC 0
+Z9 0
+PY 1982
+VL 10
+IS 7
+BP 532
+EP 532
+UT WOS:A1982NW85500014
+ER
+
+PT J
+AU HAYEK, A
+   KUEHN, C
+AF HAYEK, A
+   KUEHN, C
+TI A METHOD FOR PREVENTING MATERNAL CANNIBALISM AFTER NEONATAL RAT-SURGERY
+SO LABORATORY ANIMAL SCIENCE
+TC 4
+Z9 4
+SN 0023-6764
+PY 1982
+VL 32
+IS 2
+BP 171
+EP 172
+UT WOS:A1982NJ99200009
+PM 7078084
+ER
+
+PT J
+AU SVARE, B
+   BROIDA, J
+AF SVARE, B
+   BROIDA, J
+TI GENOTYPIC INFLUENCES ON INFANTICIDE IN MICE - ENVIRONMENTAL, SITUATIONAL
+   AND EXPERIENTIAL DETERMINANTS
+SO PHYSIOLOGY & BEHAVIOR
+TC 37
+Z9 37
+SN 0031-9384
+PY 1982
+VL 28
+IS 1
+BP 171
+EP 175
+DI 10.1016/0031-9384(82)90119-6
+UT WOS:A1982MZ13100028
+PM 7079313
+ER
+
+PT J
+AU MILEY, WM
+   BLUSTEIN, J
+   KENNEDY, K
+AF MILEY, WM
+   BLUSTEIN, J
+   KENNEDY, K
+TI PRENATAL STIMULATION AND POSTNATAL TESTOSTERONE AFFECTS INFANTICIDE IN
+   FEMALE RATS
+SO PHYSIOLOGY & BEHAVIOR
+TC 9
+Z9 9
+SN 0031-9384
+PY 1982
+VL 28
+IS 4
+BP 627
+EP 629
+DI 10.1016/0031-9384(82)90042-7
+UT WOS:A1982NJ07300009
+PM 7200619
+ER
+
+PT J
+AU VOMSAAL, FS
+   HOWARD, LS
+AF VOMSAAL, FS
+   HOWARD, LS
+TI THE REGULATION OF INFANTICIDE AND PARENTAL BEHAVIOR - IMPLICATIONS FOR
+   REPRODUCTIVE SUCCESS IN MALE-MICE
+SO SCIENCE
+TC 87
+Z9 87
+SN 0036-8075
+PY 1982
+VL 215
+IS 4537
+BP 1271
+EP 1272
+UT WOS:A1982NC62500041
+ER
+
+PT J
+AU SVARE, BB
+   MANN, MA
+AF SVARE, BB
+   MANN, MA
+TI INFANTICIDE - GENETIC, DEVELOPMENTAL, AND HORMONAL INFLUENCES IN MICE
+SO BEHAVIOR GENETICS
+TC 0
+Z9 0
+SN 0001-8244
+PY 1981
+VL 11
+IS 6
+BP 613
+EP 613
+UT WOS:A1981NH70000058
+ER
+
+PT J
+AU SVARE, B
+   MANN, M
+AF SVARE, B
+   MANN, M
+TI INFANTICIDE - GENETIC, DEVELOPMENTAL AND HORMONAL INFLUENCES IN MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 57
+Z9 57
+SN 0031-9384
+PY 1981
+VL 27
+IS 5
+BP 921
+EP 927
+DI 10.1016/0031-9384(81)90062-7
+UT WOS:A1981MP63800025
+PM 7323200
+ER
+
+PT J
+AU REYNOLDS, RD
+AF REYNOLDS, RD
+TI PREVENTING MATERNAL CANNIBALISM IN RATS
+SO SCIENCE
+TC 10
+Z9 10
+SN 0036-8075
+PY 1981
+VL 213
+IS 4512
+BP 1146
+EP 1146
+DI 10.1126/science.7268426
+UT WOS:A1981MC82900042
+PM 7268426
+ER
+
+PT J
+AU HELANDER, HF
+   BERGH, A
+AF HELANDER, HF
+   BERGH, A
+TI HOW TO AVOID MATERNAL CANNIBALISM AFTER NEONATAL SURGERY IN RATS
+SO EXPERIENTIA
+TC 7
+Z9 7
+SN 0014-4754
+PY 1980
+VL 36
+IS 11
+BP 1295
+EP 1296
+DI 10.1007/BF01969597
+UT WOS:A1980KR93400021
+PM 7449916
+ER
+
+PT J
+AU LIBBIN, RM
+   PERSON, P
+AF LIBBIN, RM
+   PERSON, P
+TI NEONATAL RAT-SURGERY - AVOIDING MATERNAL CANNIBALISM
+SO SCIENCE
+TC 34
+Z9 34
+SN 0036-8075
+PY 1979
+VL 206
+IS 4414
+BP 66
+EP 66
+DI 10.1126/science.482926
+UT WOS:A1979HM63800027
+PM 482926
+ER
+
+PT J
+AU BUSNEL, RG
+   LEHMANN, A
+AF BUSNEL, RG
+   LEHMANN, A
+TI ACOUSTIC-SIGNALS IN MOUSE MATERNAL-BEHAVIOR - RETRIEVING AND CANNIBALISM
+SO ZEITSCHRIFT FUR TIERPSYCHOLOGIE-JOURNAL OF COMPARATIVE ETHOLOGY
+TC 6
+Z9 6
+SN 0044-3573
+PY 1977
+VL 45
+IS 3
+BP 321
+EP 324
+UT WOS:A1977EH04600005
+PM 564584
+ER
+
+PT J
+AU POLEY, W
+AF POLEY, W
+TI EMOTIONALITY RELATED TO MATERNAL CANNIBALISM IN BALB AND C57BL MICE
+SO ANIMAL LEARNING & BEHAVIOR
+TC 19
+Z9 19
+SN 0090-4996
+PY 1974
+VL 2
+IS 4
+BP 241
+EP 244
+DI 10.3758/BF03199187
+UT WOS:A1974U802000001
+ER
+
+PT J
+AU GANDELMAN, R
+AF GANDELMAN, R
+TI DEVELOPMENT OF CANNIBALISM IN MALE ROCKLAND-SWISS MICE AND INFLUENCE OF
+   OLFACTORY BULB REMOVAL
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+TC 37
+Z9 37
+SN 0012-1630
+EI 1098-2302
+PY 1973
+VL 6
+IS 2
+BP 159
+EP 164
+DI 10.1002/dev.420060210
+UT WOS:A1973P645500008
+PM 4737555
+ER
+
+PT J
+AU FESTING, M
+AF FESTING, M
+TI UNUSUAL CASE OF CANNIBALISM IN AN INBRED STRAIN OF RATS
+SO ZEITSCHRIFT FUR VERSUCHSTIERKUNDE
+TC 1
+Z9 1
+SN 0044-3697
+PY 1972
+VL 14
+IS 2
+BP 103
+EP &
+UT WOS:A1972M053600006
+PM 5064421
+ER
+
+PT J
+AU GANDELMAN, R
+   ZARROW, MX
+   DENENBERG, VH
+AF GANDELMAN, R
+   ZARROW, MX
+   DENENBERG, VH
+TI STIMULUS CONTROL OF CANNIBALISM AND MATERNAL BEHAVIOR IN ANOSMIC MICE
+SO PHYSIOLOGY & BEHAVIOR
+TC 29
+Z9 30
+SN 0031-9384
+PY 1971
+VL 7
+IS 4
+BP 583
+EP +
+DI 10.1016/0031-9384(71)90112-0
+UT WOS:A1971K873600019
+PM 5167161
+ER
+
+PT J
+AU LANEPETTER, W
+AF LANEPETTER, W
+TI CANNIBALISM IN RATS AND MICE
+SO PROCEEDINGS OF THE ROYAL SOCIETY OF MEDICINE-LONDON
+TC 18
+Z9 20
+SN 0035-9157
+PY 1968
+VL 61
+IS 12
+BP 1295
+EP +
+DI 10.1177/003591576806101228
+UT WOS:A1968C155800028
+PM 5727015
+ER
+
+PT J
+AU HANKIN, L
+AF HANKIN, L
+TI FILICIDAL CANNIBALISM BY FEMALE ALBINO RATS
+SO JOURNAL OF NUTRITION
+TC 3
+Z9 3
+SN 0022-3166
+PY 1958
+VL 66
+IS 3
+BP 377
+EP 382
+UT WOS:A1958WE31500007
+PM 13611582
+ER
+
+PT J
+AU HAUSCHKA, TS
+AF HAUSCHKA, TS
+TI MUTILATION PATTERNS AND HEREDITARY - CANNIBALISM - IN MICE
+SO JOURNAL OF HEREDITY
+TC 19
+Z9 19
+SN 0022-1503
+PY 1952
+VL 43
+IS 3
+BP 117
+EP 123
+DI 10.1093/oxfordjournals.jhered.a106283
+UT WOS:A1952UW67600002
+ER
+
+EF
