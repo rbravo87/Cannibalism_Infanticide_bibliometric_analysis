@@ -4,7 +4,7 @@ This repository contains data used for bibliometrics analysis. Our search was pe
 •	To study Infanticide/Cannibalism (I/C):  
 (rats OR mice OR rodents) AND (infanticide OR cannibalism)
 
-•	To study Maternal aggression towards pups (MATP): 
+•	To study Maternal aggression towards pups (MATP):
 (parental OR maternal) AND (behavior OR care) AND aggression AND (rats OR mice) AND pups
  
 The methodology followed by the authors is explained in the manuscript.
